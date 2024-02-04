@@ -1,0 +1,348 @@
+{
+  "from": 1,
+  "to": 20,
+  "count": 3417,
+  "_links": {},
+  "hits": [
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_96a05760e4033944ead53aa8efd26f15",
+        "label": "Chocolate Banana Cake",
+        "image": "https://www.edamam.com/web-img/68f/68ffa3ef27dacd46369219e37ba40f2c",
+        "source": "Donna Hay",
+        "url": "https://www.donnahay.com.au/recipes/desserts-and-baking/cakes/chocolate-and-maple-banana-cake",
+        "shareAs": "http://www.edamam.com/recipe/chocolate-and-maple-banana-cake-recipes-96a05760e4033944ead53aa8efd26f15/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/96a05760e4033944ead53aa8efd26f15?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_32eeee239bb8055fb87fd91909af63e0",
+        "label": "Hummingbird Cake",
+        "image": "https://www.edamam.com/web-img/d82/d82ddc05ba736d89b51d8a7594136552.jpg",
+        "source": "Kraft Foods",
+        "url": "http://www.kraftrecipes.com/community/recipe-exchange/UserRecipeDisplay.aspx?group_id=1&user_recipe_id=470528",
+        "shareAs": "http://www.edamam.com/recipe/tamar-s-hummingbird-cake-32eeee239bb8055fb87fd91909af63e0/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/32eeee239bb8055fb87fd91909af63e0?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4efa20004c988e30794dd8e4247b25ae",
+        "label": "Banana Coffee Cake",
+        "image": "https://www.edamam.com/web-img/fa4/fa49d70768ec9a582b5c919f213e446f.jpg",
+        "source": "runningwithspoons.com",
+        "url": "http://www.runningwithspoons.com/2015/06/15/cinnamon-sugar-banana-coffee-cake/",
+        "shareAs": "http://www.edamam.com/recipe/cinnamon-sugar-banana-coffee-cake-4efa20004c988e30794dd8e4247b25ae/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/4efa20004c988e30794dd8e4247b25ae?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2a7263628a407572d79ff77faa0b9ffb",
+        "label": "Eggless Banana Cake",
+        "image": "https://www.edamam.com/web-img/8f7/8f72daf627e00b53554740f49da46926.jpg",
+        "source": "betterbutter.in",
+        "url": "https://betterbutter.in/recipe/75281/eggless-banana-cake",
+        "shareAs": "http://www.edamam.com/recipe/eggless-banana-cake-2a7263628a407572d79ff77faa0b9ffb/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/2a7263628a407572d79ff77faa0b9ffb?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d69bfa9d14974f39e84cc5aa5d6b36df",
+        "label": "Banana Cake Recipe",
+        "image": "https://www.edamam.com/web-img/a1a/a1a8fbc3a45a06a293843cd091c0069f.jpg",
+        "source": "12tomatoes.com",
+        "url": "https://12tomatoes.com/classic-banana-cake/",
+        "shareAs": "http://www.edamam.com/recipe/banana-cake-d69bfa9d14974f39e84cc5aa5d6b36df/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/d69bfa9d14974f39e84cc5aa5d6b36df?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0d4ecd97af38ac3cce05ef57cb2e715a",
+        "label": "Hummingbird Skillet Cookie",
+        "image": "https://www.edamam.com/web-img/6d7/6d781dc138161ad264895395b164239a.jpg",
+        "source": "My Recipes",
+        "url": "http://www.myrecipes.com/recipe/hummingbird-deep-dish-skillet-cookie",
+        "shareAs": "http://www.edamam.com/recipe/hummingbird-deep-dish-skillet-cookie-0d4ecd97af38ac3cce05ef57cb2e715a/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/0d4ecd97af38ac3cce05ef57cb2e715a?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ad6475ba7f7d1b507ec3a4fe3c7a1d94",
+        "label": "Cake Banana Bread",
+        "image": "https://www.edamam.com/web-img/ab9/ab9a0b80ab74b10178b0421e4e2a8867.jpg",
+        "source": "Group Recipes",
+        "url": "http://www.grouprecipes.com/132091/cake-banana-bread.html",
+        "shareAs": "http://www.edamam.com/recipe/cake-banana-bread-recipe-ad6475ba7f7d1b507ec3a4fe3c7a1d94/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/ad6475ba7f7d1b507ec3a4fe3c7a1d94?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b89fb0ec7bd247b029faf6439846ac33",
+        "label": "Banana Layer Cake ",
+        "image": "https://www.edamam.com/web-img/ace/ace7047a3085612a9e7b98de6aa057f9",
+        "source": "chocolatemoosey.com",
+        "url": "http://www.chocolatemoosey.com/2016/03/07/banana-layer-cake-with-peanut-butter-cream-cheese-frosting/",
+        "shareAs": "http://www.edamam.com/recipe/banana-layer-cake-with-peanut-butter-cream-cheese-frosting-recipes-b89fb0ec7bd247b029faf6439846ac33/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/b89fb0ec7bd247b029faf6439846ac33?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4d76d9678b2058b742c0c1233f3dfa21",
+        "label": "Banana Pudding Cake",
+        "image": "https://www.edamam.com/web-img/82c/82cb24f4462355822cd2de0cd3ef81e0.jpg",
+        "source": "familycookbookproject.com",
+        "url": "https://familycookbookproject.com/recipe/3161922/banana-pudding-poke-cake.html",
+        "shareAs": "http://www.edamam.com/recipe/banana-pudding-poke-cake-recipe-4d76d9678b2058b742c0c1233f3dfa21/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/4d76d9678b2058b742c0c1233f3dfa21?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_795c63d8407858492226316038d0f79a",
+        "label": "Banana Cake Iii Recipe",
+        "image": "https://www.edamam.com/web-img/a0c/a0cc82c0651fb5a5463c4381dfb1802c.jpg",
+        "source": "Allrecipes",
+        "url": "http://allrecipes.com/Recipe/Banana-Cake-III/Detail.aspx",
+        "shareAs": "http://www.edamam.com/recipe/banana-cake-iii-795c63d8407858492226316038d0f79a/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/795c63d8407858492226316038d0f79a?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ca0afc1e399bb7b177a56a5f797a6489",
+        "label": "Fried Chicken Lollypops ",
+        "image": "https://www.edamam.com/web-img/f82/f82b2379b6bf67871969ca01cd50a88a.jpg",
+        "source": "Group Recipes",
+        "url": "http://www.grouprecipes.com/129287/fried-chicken-lollypops-with-guava-barbeque-sauce.html",
+        "shareAs": "http://www.edamam.com/recipe/fried-chicken-lollypops-with-guava-barbeque-sauce-recipe-ca0afc1e399bb7b177a56a5f797a6489/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/ca0afc1e399bb7b177a56a5f797a6489?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4587a426f65c127f71690130fe91fef5",
+        "label": "Père Roux's Cake",
+        "image": "https://www.edamam.com/web-img/c8c/c8c3d54888ff2d5514d5ff0c656473b0.jpg",
+        "source": "Food & Wine",
+        "url": "http://www.foodandwine.com/recipes/pere-roux-cake",
+        "shareAs": "http://www.edamam.com/recipe/p%C3%A8re-roux-s-cake-4587a426f65c127f71690130fe91fef5/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/4587a426f65c127f71690130fe91fef5?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a20b2359388bfe21f15372def1fe52fe",
+        "label": "Banana Cake Recipe",
+        "image": "https://www.edamam.com/web-img/083/083ab2a94c36ec0c52a70c1e76e34325.jpg",
+        "source": "recipes.sparkpeople.com",
+        "url": "https://recipes.sparkpeople.com/recipe-detail.asp?recipe=3342363",
+        "shareAs": "http://www.edamam.com/recipe/banana-cake-a20b2359388bfe21f15372def1fe52fe/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/a20b2359388bfe21f15372def1fe52fe?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_efde04603e5742ac5a8960fa68ed7ae6",
+        "label": "Flourless Chocolate Chip",
+        "image": "https://www.edamam.com/web-img/02a/02a5516557219d83610b9b9e90714976.jpg",
+        "source": "muscleandmanna.com",
+        "url": "https://muscleandmanna.com/flourless-chocolate-chip-coconut-cake/",
+        "shareAs": "http://www.edamam.com/recipe/flourless-chocolate-chip-coconut-cake-efde04603e5742ac5a8960fa68ed7ae6/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/efde04603e5742ac5a8960fa68ed7ae6?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_49a12d80611f479eb593f2c1595a3cf3",
+        "label": "Banana Maple Cake",
+        "image": "https://www.edamam.com/web-img/669/66997af251a805171bcd617c7f262a82.jpg",
+        "source": "baketheneat.com",
+        "url": "http://baketheneat.com/banana-maple-cake-salted-caramel-swirl/",
+        "shareAs": "http://www.edamam.com/recipe/banana-maple-cake-with-salted-caramel-swir-49a12d80611f479eb593f2c1595a3cf3/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/49a12d80611f479eb593f2c1595a3cf3?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2dbf55782cad5517bf8150f20f9b53be",
+        "label": "Banana Split Cake",
+        "image": "https://www.edamam.com/web-img/603/603fbd9abb48535995739a82641f9e53.jpg",
+        "source": "recipezaar.com",
+        "url": "http://www.recipezaar.com/Make-Like-a-Banana-and-Split-Cake-234671",
+        "shareAs": "http://www.edamam.com/recipe/make-like-a-banana-and-split-cake-2dbf55782cad5517bf8150f20f9b53be/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/2dbf55782cad5517bf8150f20f9b53be?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b315fe9493b29409acd1e6fb322f4c03",
+        "label": "Banana Skin Cake ",
+        "image": "https://www.edamam.com/web-img/a43/a4359de648960eda7987b65606ca79e2",
+        "source": "themorethanoccasionalbaker.blogspot.com",
+        "url": "http://themorethanoccasionalbaker.blogspot.com/2012/02/banana-skin-cake.html",
+        "shareAs": "http://www.edamam.com/recipe/banana-skin-cake-recipes-b315fe9493b29409acd1e6fb322f4c03/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/b315fe9493b29409acd1e6fb322f4c03?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8e74a204df4333bde44fd647ff50e692",
+        "label": "Bolo De Banana recipes",
+        "image": "https://www.edamam.com/web-img/67c/67c2ef149a7d015a710cc561654d183a",
+        "source": "littlesunnykitchen.com",
+        "url": "http://www.littlesunnykitchen.com/2014/04/bolo-de-banana-spiced-banana-upside-down-cake/",
+        "shareAs": "http://www.edamam.com/recipe/bolo-de-banana-spiced-banana-upside-down-cake-recipes-8e74a204df4333bde44fd647ff50e692/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/8e74a204df4333bde44fd647ff50e692?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fa9a7bd08ec1b574b6d04f88912c6d81",
+        "label": "Hummingbird fruit icing",
+        "image": "https://www.edamam.com/web-img/c55/c55c2f528a9804eb11c4a2bdcd0fc888.jpeg",
+        "source": "taste.com.au",
+        "url": "https://www.taste.com.au/recipes/hummingbird-cakes-passionfruit-icing/1e42cd41-7a46-4129-9098-2e9065ec6fa6",
+        "shareAs": "http://www.edamam.com/recipe/hummingbird-cakes-with-passionfruit-icing-fa9a7bd08ec1b574b6d04f88912c6d81/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/fa9a7bd08ec1b574b6d04f88912c6d81?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_db0e412b0c5d20f19cb4c7676dcd8721",
+        "label": "Banana and Date Bread ",
+        "image": "https://www.edamam.com/web-img/504/5045cfc0502026fe16ca4ac1b58dfe63.jpg",
+        "source": "hadiaslebanesecuisine.com",
+        "url": "http://hadiaslebanesecuisine.com/newsite/recipe-items/banana-and-date-bread-tahini-and-carob-molasses/",
+        "shareAs": "http://www.edamam.com/recipe/banana-and-date-bread-with-tahini-and-carob-molasses-db0e412b0c5d20f19cb4c7676dcd8721/banana+cake"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/db0e412b0c5d20f19cb4c7676dcd8721?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    }
+  ]
+}

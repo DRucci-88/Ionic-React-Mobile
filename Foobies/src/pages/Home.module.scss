@@ -1,0 +1,57 @@
+.search{
+
+  padding-bottom: 0.5rem;
+  border-radius: 0px;
+
+
+
+  ion-searchbar{
+    color: #a8a8a8;
+    --background: #fdfdfd;
+    --icon-color: #FFAB4C;
+    --border-radius: 20px;
+
+  }
+
+}
+
+.topHeader {
+
+  height: 5rem;
+  margin-bottom: -5rem;
+  border-end-start-radius: 50px !important;
+
+  background-color: #FFBC97;
+  }
+
+
+
+
+.topbar{
+  ion-header {
+    &.header-md:after {
+      background: none;
+    }
+  }
+
+  ion-header,
+  ion-toolbar {
+
+    border: none !important;
+    --border-style: none !important;
+    //border-color: none !important;
+    border-bottom: none !important;
+  }
+
+  ion-toolbar {
+
+    background-color: #FFBC97;
+    --background: url("#");
+  }
+}
+
+.title{
+  text-align: center;
+  font-size: 30px;
+  font-family: "JetBrains Mono ExtraBold";
+}

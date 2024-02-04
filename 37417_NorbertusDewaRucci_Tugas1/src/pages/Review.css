@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+.img {
+    --border-radius: 0;
+}
+
+#container ion-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    height: 50px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    --border-radius: 40px;
+    --color: var(--ion-color-step-850, rgb(0, 0, 0));
+    --background: var(--ion-color-light);
+}
+
+h2 {
+    margin: 0;
+}

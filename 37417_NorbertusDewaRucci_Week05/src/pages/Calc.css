@@ -1,0 +1,6 @@
+
+
+ion-toolbar {
+    --background: var(--ion-color-primary, #ff0000);
+    --color: #ffffff;
+}

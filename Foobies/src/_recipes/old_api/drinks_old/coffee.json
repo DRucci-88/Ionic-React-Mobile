@@ -1,0 +1,331 @@
+{
+  "from": 1,
+  "to": 20,
+  "count": 10000,
+  "_links": {},
+  "hits": [
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_51b070b625c9fb39d35b151d3e45439c",
+        "label": "Mocha Cheesecake Crus",
+        "image": "https://www.edamam.com/web-img/fb3/fb35a677a0030028ae19b3c61556f96a.jpg",
+        "source": "fitnesshealth101.com",
+        "url": "http://www.fitnesshealth101.com/recipe/dessert/mocha-cheesecake-w-chocolate-crust",
+        "shareAs": "http://www.edamam.com/recipe/mocha-cheesecake-w-chocolate-crust-51b070b625c9fb39d35b151d3e45439c/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/51b070b625c9fb39d35b151d3e45439c?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_51de8c7f0881126a1254368188ef9724",
+        "label": "Caramel Chocolate Tiramisu",
+        "image": "https://www.edamam.com/web-img/37a/37a2765730389233b6638060aa2f40bb",
+        "source": "mummymade.it",
+        "url": "http://mummymade.it/2016/04/sweet-potato-caramel-and-chocolate-tiramisu-cake.html",
+        "shareAs": "http://www.edamam.com/recipe/sweet-potato-caramel-and-chocolate-tiramisu-cake-recipes-51de8c7f0881126a1254368188ef9724/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/51de8c7f0881126a1254368188ef9724?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_19c30851eaaa723b1dd2d32aab8d0f1b",
+        "label": "Ganzie’s Biscuits Recipe",
+        "image": "https://www.edamam.com/web-img/ce8/ce8dde28142c45ebb564c3b7f4a25569.jpg",
+        "source": "tastykitchen.com",
+        "url": "https://tastykitchen.com/recipes/breads/ganziee28099s-biscuits/",
+        "shareAs": "http://www.edamam.com/recipe/ganzie-s-biscuits-19c30851eaaa723b1dd2d32aab8d0f1b/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/19c30851eaaa723b1dd2d32aab8d0f1b?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_92a1738a9a4f363fbbcb65af9b0f4b04",
+        "label": "Individual Microwave Brownie",
+        "image": "https://www.edamam.com/web-img/b2a/b2a57502144b6af3f2b280feea04acfd.jpg",
+        "source": "Allrecipes",
+        "url": "https://www.allrecipes.com/recipe/246940/individual-microwave-brownie/",
+        "shareAs": "http://www.edamam.com/recipe/individual-microwave-brownie-92a1738a9a4f363fbbcb65af9b0f4b04/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/92a1738a9a4f363fbbcb65af9b0f4b04?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4b750a2d092a2bef665087d3bca75ee4",
+        "label": "Homemade Coffee Creamers",
+        "image": "https://www.edamam.com/web-img/320/32022c912232f3fff12eaf347099eb56.jpg",
+        "source": "deliciouslyorganic.net",
+        "url": "http://deliciouslyorganic.net/caramel-coffee-creamer-and-honey-vanilla-coffee-creamer-recipe/",
+        "shareAs": "http://www.edamam.com/recipe/homemade-coffee-creamers-caramel-coffee-creamer-4b750a2d092a2bef665087d3bca75ee4/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/4b750a2d092a2bef665087d3bca75ee4?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_89d9cd71222a3850ad3913172ef7eb96",
+        "label": "Gluten Free Sweet Potato Brownies",
+        "image": "https://www.edamam.com/web-img/1d9/1d9b9cdb4aeff5ace3a1f1e3cae211ec.jpeg",
+        "source": "shelovesbiscotti.com",
+        "url": "https://www.shelovesbiscotti.com/gluten-free-sweet-potato-black-bean-brownies",
+        "shareAs": "http://www.edamam.com/recipe/gluten-free-sweet-potato-black-bean-brownies-89d9cd71222a3850ad3913172ef7eb96/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/89d9cd71222a3850ad3913172ef7eb96?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fc978b042870ccf40d3930560cd5c6e5",
+        "label": "Mina Holland's Cherry, Coconut & Thyme Shuttle",
+        "image": "https://www.edamam.com/web-img/d59/d5942a218730297f1f7a8e8e646c043f.jpg",
+        "source": "Food52",
+        "url": "https://food52.com/recipes/37546-mina-holland-s-cherry-coconut-thyme-shuttle",
+        "shareAs": "http://www.edamam.com/recipe/mina-holland-s-cherry-coconut-thyme-shuttle-fc978b042870ccf40d3930560cd5c6e5/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/fc978b042870ccf40d3930560cd5c6e5?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_be5b3ce6455cdbc04c3d0cbe1305598f",
+        "label": "Chocolate Mocha Mug Cake",
+        "image": "https://www.edamam.com/web-img/f7d/f7da7d141517fa149d1403534efb58e7.jpg",
+        "source": "upstateramblings.com",
+        "url": "https://www.upstateramblings.com/chocolate-mocha-mug-cake/",
+        "shareAs": "http://www.edamam.com/recipe/chocolate-mocha-mug-cake-be5b3ce6455cdbc04c3d0cbe1305598f/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/be5b3ce6455cdbc04c3d0cbe1305598f?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1e792e84cf78a493e69b032548567a29",
+        "label": "Moist Chocolate Beet Cake with Cream Chees",
+        "image": "https://www.edamam.com/web-img/3ea/3eafe22c9d2ce51af7f5a5aa3016017d.jpg",
+        "source": "chewoutloud.com",
+        "url": "http://www.chewoutloud.com/2015/08/14/moist-chocolate-beet-cake-with-cream-cheese-frosting/",
+        "shareAs": "http://www.edamam.com/recipe/moist-chocolate-beet-cake-with-cream-chees-1e792e84cf78a493e69b032548567a29/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/1e792e84cf78a493e69b032548567a29?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_17afb38f6fef0c44503d3b384d20b0d8",
+        "label": "Iced Caramel Cappuccinos Recipe",
+        "image": "https://www.edamam.com/web-img/df3/df32312e0ae8b01dab9c00346d08d3ff.jpg",
+        "source": "recipeofhealth.com",
+        "url": "http://recipeofhealth.com/recipe/iced-caramel-cappuccinos-103345rb",
+        "shareAs": "http://www.edamam.com/recipe/iced-caramel-cappuccinos-recipe-17afb38f6fef0c44503d3b384d20b0d8/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/17afb38f6fef0c44503d3b384d20b0d8?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ee1ee71a37801a09e96c331b70c9bd85",
+        "label": "Molded Chocolate Mousse",
+        "image": "https://www.edamam.com/web-img/3db/3dbf405c4c9000b2c394dfb0dd0708c4.jpg",
+        "source": "Foodista",
+        "url": "http://www.foodista.com/recipe/XRNLKVWG/molded-chocolate-mousse",
+        "shareAs": "http://www.edamam.com/recipe/molded-chocolate-mousse-ee1ee71a37801a09e96c331b70c9bd85/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/ee1ee71a37801a09e96c331b70c9bd85?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dc1683f3f6d68d5d6c0497e27bd34ab6",
+        "label": " Homemade CraftBeer recipes",
+        "image": "https://www.edamam.com/web-img/0f2/0f240304ba8acf2ec0042736edde25b3",
+        "source": "craftbeer.com",
+        "url": "https://www.craftbeer.com/recipes/fudge-stout-brownies",
+        "shareAs": "http://www.edamam.com/recipe/craftbeer-com-recipes-dc1683f3f6d68d5d6c0497e27bd34ab6/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/dc1683f3f6d68d5d6c0497e27bd34ab6?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7ad42efa3cab2d45d95484994242e6b4",
+        "label": "Iced Coffee-Chocolate Soda Frappe",
+        "image": "https://www.edamam.com/web-img/1a9/1a9513702aa3c8f66c5a8b99b3108901.jpg",
+        "source": "recipezaar.com",
+        "url": "http://www.recipezaar.com/Iced-Coffee-Chocolate-Soda-Frappe-180487",
+        "shareAs": "http://www.edamam.com/recipe/iced-coffee-chocolate-soda-frappe-7ad42efa3cab2d45d95484994242e6b4/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/7ad42efa3cab2d45d95484994242e6b4?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0c31fcd8dac264bb7726692de0cb5841",
+        "label": "Perfect Chocolate Cake ",
+        "image": "https://www.edamam.com/web-img/4b1/4b1c44a18349dc6828cb97760fc35f42.jpg",
+        "source": "chateauelma.com",
+        "url": "http://www.chateauelma.com/perfect-chocolate-cake-chocolate-frosting",
+        "shareAs": "http://www.edamam.com/recipe/perfect-chocolate-cake-with-chocolate-fros-0c31fcd8dac264bb7726692de0cb5841/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/0c31fcd8dac264bb7726692de0cb5841?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d0b3c75a4d50164e96d298deed5c170d",
+        "label": "Improved Iced Coffee Recipe",
+        "image": "https://www.edamam.com/web-img/017/0170a404c5d451942ebbcea6cba16fd6.jpg",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2014/03/improved-iced-coffee-bourbon-demerara-maraschino-cocktail-mike-treffehn-recipe.html",
+        "shareAs": "http://www.edamam.com/recipe/improved-iced-coffee-recipe-d0b3c75a4d50164e96d298deed5c170d/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/d0b3c75a4d50164e96d298deed5c170d?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_13675bebb0afbfa38b7a517652c2af93",
+        "label": "White Russian Mini Cheesecakes",
+        "image": "https://www.edamam.com/web-img/67c/67c5030a32309951fd14a319ebac14f2.jpg",
+        "source": "eclecticrecipes.com",
+        "url": "http://eclecticrecipes.com/white-russian-mini-cheesecakes",
+        "shareAs": "http://www.edamam.com/recipe/white-russian-mini-cheesecakes-13675bebb0afbfa38b7a517652c2af93/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/13675bebb0afbfa38b7a517652c2af93?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_08e6ae6106fbf9e17caa1ba0e67df933",
+        "label": "* 1/4 cup coarsely ground coffee bean*",
+        "image": "https://www.edamam.com/web-img/706/706d2db6021a92ea317488d0d51db747.jpg",
+        "source": "exsloth.com",
+        "url": "http://www.exsloth.com/diy-psl-coffee-lip-scrub/",
+        "shareAs": "http://www.edamam.com/recipe/1-4-cup-coarsely-ground-coffee-bean-08e6ae6106fbf9e17caa1ba0e67df933/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/08e6ae6106fbf9e17caa1ba0e67df933?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_41380987a04eb59e8a5e76b34ef0c47f",
+        "label": "Double Layer Chocolate Cake",
+        "image": "https://www.edamam.com/web-img/14d/14d96c0af0488af0d9e2fda289d0f2ef.jpg",
+        "source": "recipezaar.com",
+        "url": "http://www.recipezaar.com/Double-Layer-Chocolate-Cake-With-Mocha-Icing-47465",
+        "shareAs": "http://www.edamam.com/recipe/double-layer-chocolate-cake-with-mocha-icing-41380987a04eb59e8a5e76b34ef0c47f/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/41380987a04eb59e8a5e76b34ef0c47f?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f3f6b57446bf29d6d0ea190c50d392e8",
+        "label": "Best Ever Chocolate Fudge Brownies",
+        "image": "https://www.edamam.com/web-img/cce/cce042443610c62d949cbe865b5800db.jpg",
+        "source": "bearnakedfood.com",
+        "url": "http://www.bearnakedfood.com/2015/11/13/best-ever-chocolate-fudge-brownies-2/",
+        "shareAs": "http://www.edamam.com/recipe/best-ever-chocolate-fudge-brownies-f3f6b57446bf29d6d0ea190c50d392e8/coffee"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f3f6b57446bf29d6d0ea190c50d392e8?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    }
+  ]
+}

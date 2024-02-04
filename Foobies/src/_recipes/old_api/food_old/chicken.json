@@ -1,0 +1,344 @@
+{
+    "from": 1,
+    "to": 20,
+    "count": 10000,
+    "_links": {},
+    "hits": [
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f79c38860874e30cc66ee43170fe8af6",
+                "label": "Spicy Chicken Drumsticks",
+                "image": "https://www.edamam.com/web-img/e9c/e9c63541466df85cec1e9fca0b6834b0.jpg",
+                "source": "Foodista",
+                "url": "http://www.foodista.com/recipe/D7D45CW4/spicy-chicken-drumsticks",
+                "shareAs": "http://www.edamam.com/recipe/spicy-chicken-drumsticks-f79c38860874e30cc66ee43170fe8af6/chicken"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/f79c38860874e30cc66ee43170fe8af6?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a77c2bf43f38a9cef869fa8a45f62098",
+                "label": "Gumbo Pizza recipes",
+                "image": "https://www.edamam.com/web-img/12e/12ed1661fac298e37fc1cbb2ef6fd63e",
+                "source": "mymoderncookery.com",
+                "url": "http://www.mymoderncookery.com/2015/02/15/gumbo-pizza/",
+                "shareAs": "http://www.edamam.com/recipe/gumbo-pizza-recipes-a77c2bf43f38a9cef869fa8a45f62098/chicken"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/a77c2bf43f38a9cef869fa8a45f62098?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9cf7d34f416848b94c71ac6eafa0a555",
+                "label": "Chicken Broccoli Soup",
+                "image": "https://www.edamam.com/web-img/a95/a95071ef0daa576b0f444fe474556b86",
+                "source": "12tomatoes.com",
+                "url": "http://12tomatoes.com/chicken-detox-soup/",
+                "shareAs": "http://www.edamam.com/recipe/chicken-and-broccoli-detox-soup-recipes-9cf7d34f416848b94c71ac6eafa0a555/chicken"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/9cf7d34f416848b94c71ac6eafa0a555?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5bda055baec3bc7f71637c4927f4e235",
+                "label": "Balsamic Chicken",
+                "image": "https://www.edamam.com/web-img/aa6/aa62813a5f53b6be253d9b29fedaac76.jpg",
+                "source": "food.com",
+                "url": "http://www.food.com/recipe/balsamic-chicken-244859",
+                "shareAs": "http://www.edamam.com/recipe/balsamic-chicken-5bda055baec3bc7f71637c4927f4e235/chicken"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/5bda055baec3bc7f71637c4927f4e235?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fbcc68bd3b1980f3dec24fb8c8cb44cf",
+                "label": "Chicken Strips Mango",
+                "image": "https://www.edamam.com/web-img/3c6/3c60f27e9d3bd7ff974233c4c51a8c3a.jpg",
+                "source": "Foodista",
+                "url": "http://www.foodista.com/recipe/WYQV6NNY/ritz-chicken-strips-with-a-spiced-mango-dipping-sauce",
+                "shareAs": "http://www.edamam.com/recipe/ritz-chicken-strips-with-a-spiced-mango-dipping-sauce-fbcc68bd3b1980f3dec24fb8c8cb44cf/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/fbcc68bd3b1980f3dec24fb8c8cb44cf?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bd815882f96d7f4f010cc2b3b7913c2e",
+                "label": "Grilled Chicken recipe",
+                "image": "https://www.edamam.com/web-img/7d1/7d1d22550967d71a7a10a235b767d1c4.jpg",
+                "source": "tablespoon.com",
+                "url": "https://www.tablespoon.com/recipes/grilled-chicken-with-cantaloupe-salsa/0221bc5e-f9b6-4a31-8a9b-f42baa2f2777",
+                "shareAs": "http://www.edamam.com/recipe/grilled-chicken-with-cantaloupe-salsa-bd815882f96d7f4f010cc2b3b7913c2e/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/bd815882f96d7f4f010cc2b3b7913c2e?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_02829f09bf3d5e9e96b6b9d7193f47a9",
+                "label": "Chicken Chow Mein",
+                "image": "https://www.edamam.com/web-img/e90/e9081884b68ef8a992b6f5149c222902.jpg",
+                "source": "memorabledishes.com",
+                "url": "http://www.memorabledishes.com/tag/healthy-chow-mein/",
+                "shareAs": "http://www.edamam.com/recipe/chicken-crunchy-chow-mein-02829f09bf3d5e9e96b6b9d7193f47a9/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/02829f09bf3d5e9e96b6b9d7193f47a9?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_78e4b83e2ef80e8be0f2808a99c4f9d0",
+                "label": "Asian Shrimp Bisque ",
+                "image": "https://www.edamam.com/web-img/040/040eeb1bce83199073b9e9a27c3ceb35.JPG",
+                "source": "Group Recipes",
+                "url": "http://www.grouprecipes.com/111421/asian-shrimp-bisque-with-shrimp-toast.html",
+                "shareAs": "http://www.edamam.com/recipe/asian-shrimp-bisque-with-shrimp-toast-recipe-78e4b83e2ef80e8be0f2808a99c4f9d0/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/78e4b83e2ef80e8be0f2808a99c4f9d0?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_691c29d7a6b58324c23062fbed6c5d22",
+                "label": "Parmesan Tomatoes   ",
+                "image": "https://www.edamam.com/web-img/146/146765f55ae36ee87946505b7f2fab35.jpg",
+                "source": "Taste of Home",
+                "url": "http://www.tasteofhome.com/recipes/parmesan-tomato",
+                "shareAs": "http://www.edamam.com/recipe/parmesan-tomatoes-recipe-5-691c29d7a6b58324c23062fbed6c5d22/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/691c29d7a6b58324c23062fbed6c5d22?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_66ec0b42c066faf146869d735bbb975b",
+                "label": "Shish Tawook recipe",
+                "image": "https://www.edamam.com/web-img/5fa/5fa39477d633193bc645880e9f9ca58d.jpg",
+                "source": "cookingmimi.com",
+                "url": "https://www.cookingmimi.com/shish-tawook/",
+                "shareAs": "http://www.edamam.com/recipe/shish-tawook-secret-recipe-club-66ec0b42c066faf146869d735bbb975b/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/66ec0b42c066faf146869d735bbb975b?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_591a36b23b011806992f6a81f136c376",
+                "label": "Grilled Sesame Chicken",
+                "image": "https://www.edamam.com/web-img/8cf/8cf6ca72a137b2e11620d4009f2e2d07.jpeg",
+                "source": "Food Network",
+                "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/grilled-sesame-chicken-lettuce-cups-3562034",
+                "shareAs": "http://www.edamam.com/recipe/grilled-sesame-chicken-lettuce-cups-591a36b23b011806992f6a81f136c376/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/591a36b23b011806992f6a81f136c376?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2fb1fe1621aa13394a6a80d83ad20dd6",
+                "label": "Pumpkin Turkey Bake",
+                "image": "https://www.edamam.com/web-img/d99/d99e0f0b344ea43eb0716e1f5e94393b.jpg",
+                "source": "BigOven",
+                "url": "https://www.bigoven.com/recipe/pumpkin-turkey-bake/159414",
+                "shareAs": "http://www.edamam.com/recipe/pumpkin-turkey-bake-2fb1fe1621aa13394a6a80d83ad20dd6/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/2fb1fe1621aa13394a6a80d83ad20dd6?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2cae03917599d675643a7cc0cae15112",
+                "label": "Baked Chicken recipe",
+                "image": "https://www.edamam.com/web-img/eee/eeea994ec882208b126cb5ffdc2e117b.jpg",
+                "source": "Allrecipes",
+                "url": "http://allrecipes.com/Recipe/Hungry-Mans-Baked-Chicken/Detail.aspx",
+                "shareAs": "http://www.edamam.com/recipe/hungry-man-s-baked-chicken-2cae03917599d675643a7cc0cae15112/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/2cae03917599d675643a7cc0cae15112?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c3a93a90be49eb1d093e4e284a6c5f99",
+                "label": "Chicken Ramen Bowl",
+                "image": "https://www.edamam.com/web-img/c04/c0425971764bf8a138f82e7e1e0330ce.jpg",
+                "source": "Allrecipes",
+                "url": "https://www.allrecipes.com/recipe/263054/chicken-ramen-bowl/",
+                "shareAs": "http://www.edamam.com/recipe/chicken-ramen-bowl-c3a93a90be49eb1d093e4e284a6c5f99/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/c3a93a90be49eb1d093e4e284a6c5f99?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fee98e6a7cbb1fd54366dd0efee52823",
+                "label": "Pomegranate-Glazed Pork ",
+                "image": "https://www.edamam.com/web-img/5c5/5c50e2944ff510e4436e4225da7716b4.jpg",
+                "source": "My Recipes",
+                "url": "http://www.myrecipes.com/recipe/pomegranate-glazed-pork-skewers-dill-onion-marinade",
+                "shareAs": "http://www.edamam.com/recipe/pomegranate-glazed-pork-skewers-with-dill-onion-marinade-fee98e6a7cbb1fd54366dd0efee52823/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/fee98e6a7cbb1fd54366dd0efee52823?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1b436371c0542772bb632b7039fe4562",
+                "label": "Greek Style Chicken",
+                "image": "https://www.edamam.com/web-img/6fc/6fccc5a27f478fd05e0c231aba148ec9.jpg",
+                "source": "wenderly.com",
+                "url": "http://wenderly.com/greek-style-chicken-potatoes/?share=stumbleupon",
+                "shareAs": "http://www.edamam.com/recipe/greek-style-chicken-potatoes-1b436371c0542772bb632b7039fe4562/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/1b436371c0542772bb632b7039fe4562?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_856ccfca87f9f81043b6925c9f18ab2d",
+                "label": "Green Goddess Enchiladas",
+                "image": "https://www.edamam.com/web-img/0eb/0eba86c54c46da02f0c6b794fd2d041c.jpg",
+                "source": "Cinnamon Spice & Everything Nice",
+                "url": "http://www.cinnamonspiceandeverythingnice.com/beef-and-corn-enchiladas-with-spinach-cream-sauce/",
+                "shareAs": "http://www.edamam.com/recipe/green-goddess-enchiladas-856ccfca87f9f81043b6925c9f18ab2d/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/856ccfca87f9f81043b6925c9f18ab2d?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4bf81da3885d2f2399d0e7be1691c091",
+                "label": "Byerly's Rice Soup",
+                "image": "https://www.edamam.com/web-img/c4e/c4e255e87ac59a246a032264ee5d11f9.jpg",
+                "source": "food.com",
+                "url": "http://www.food.com/recipe/byerlys-wild-rice-soup-178083",
+                "shareAs": "http://www.edamam.com/recipe/byerly-s-wild-rice-soup-4bf81da3885d2f2399d0e7be1691c091/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/4bf81da3885d2f2399d0e7be1691c091?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_769528377e6deb5f509170cd26b44592",
+                "label": "Chicken Breasts recipes",
+                "image": "https://www.edamam.com/web-img/442/44206bc5563d440de76afaaaa7608c11",
+                "source": "shelovesbiscotti.com",
+                "url": "http://www.shelovesbiscotti.com/easy-one-pot-lemon-thyme-chicken-breasts/",
+                "shareAs": "http://www.edamam.com/recipe/one-pot-lemon-thyme-chicken-breasts-recipes-769528377e6deb5f509170cd26b44592/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/769528377e6deb5f509170cd26b44592?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        },
+        {
+            "recipe": {
+                "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7f35531c90915f4241ff1f4b72fcbe3f",
+                "label": "Orzo Primavera recipe",
+                "image": "https://www.edamam.com/web-img/4f1/4f154690f667ea620e4c81ec19d37365.jpg",
+                "source": "recipes.sparkpeople.com",
+                "url": "https://recipes.sparkpeople.com/recipe-detail.asp?recipe=1462454",
+                "shareAs": "http://www.edamam.com/recipe/orzo-primavera-7f35531c90915f4241ff1f4b72fcbe3f/chicken"
+
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/7f35531c90915f4241ff1f4b72fcbe3f?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+                    "title": "Self"
+                }
+            }
+        }
+    ]
+}

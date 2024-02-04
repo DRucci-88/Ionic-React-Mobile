@@ -1,0 +1,56 @@
+
+
+.bmi {
+    text-align: center;
+}
+
+.bmr {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.bmiStyle {
+    border-top: 4px solid;
+}
+
+.bmrStyle {
+    margin-top: 40px;
+    border-top: 4px solid;
+}
+
+.headerStyle {
+    background-color: green;
+}
+
+.title1Health {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.title1Health p{
+    color: white;
+    font-size: 20px;
+    letter-spacing: 5px;
+
+    -webkit-text-stroke: 1px #76b140;
+
+}
+
+.titleHealth {
+    color: white;
+    background-color: #76b140;
+    text-align: center;
+    padding: 0px 5px 6px 10px;
+
+    margin-bottom: 30px;
+    border-radius: 25px;
+}
+
+.titleHealth h2 {
+    font-weight: 600;
+}
+
+.h2Card{
+
+    text-align: center;
+    font-family: "Fira Code";
+}

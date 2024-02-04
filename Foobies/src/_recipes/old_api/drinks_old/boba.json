@@ -1,0 +1,331 @@
+{
+  "from": 1,
+  "to": 19,
+  "count": 19,
+  "_links": {},
+  "hits": [
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cadbcf57bc78dfaa113765232ad8e035",
+        "label": "Taro Boba Tea Recipe",
+        "image": "https://www.edamam.com/web-img/99b/99bcf7fb7648ef49b709c5e496b193ed.jpg",
+        "source": "Allrecipes",
+        "url": "https://www.allrecipes.com/recipe/257914/taro-boba-tea/",
+        "shareAs": "http://www.edamam.com/recipe/taro-boba-tea-cadbcf57bc78dfaa113765232ad8e035/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/cadbcf57bc78dfaa113765232ad8e035?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f48ac30817edb1ae7d7f6824479098e6",
+        "label": "Coconut Almond Milk Tea ",
+        "image": "https://www.edamam.com/web-img/407/4070c9265548db0325bd301620376218",
+        "source": "The Little Kitchen",
+        "url": "http://www.thelittlekitchen.net/coconut-almond-milk-tea-smoothies/",
+        "shareAs": "http://www.edamam.com/recipe/coconut-almond-milk-tea-smoothies-with-boba-recipes-f48ac30817edb1ae7d7f6824479098e6/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f48ac30817edb1ae7d7f6824479098e6?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e63498d9570ba1d5e6aeb1589b3f6f93",
+        "label": "Easy Boba Fettucine ",
+        "image": "https://www.edamam.com/web-img/cc2/cc2f91f624251c224d6f61053dc8d71e.jpg",
+        "source": "mealplannerpro.com",
+        "url": "https://mealplannerpro.com/member-recipes/boba-fettucine-748341",
+        "shareAs": "http://www.edamam.com/recipe/boba-fettucine-e63498d9570ba1d5e6aeb1589b3f6f93/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/e63498d9570ba1d5e6aeb1589b3f6f93?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_45de06e82e8bd20a5cdc372b2df28335",
+        "label": " Strawberry Boba",
+        "image": "https://www.edamam.com/web-img/b47/b47316c66a5f7f07eefc53447a96785f.jpg",
+        "source": "Food52",
+        "url": "https://food52.com/recipes/83200-strawberry-bubble-tea-recipe",
+        "shareAs": "http://www.edamam.com/recipe/strawberry-boba-45de06e82e8bd20a5cdc372b2df28335/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/45de06e82e8bd20a5cdc372b2df28335?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0fac0c348026281ddae5f2e045a955e6",
+        "label": "Witch's Brew Recipe",
+        "image": "https://www.edamam.com/web-img/e36/e36daf70b8ac7f3e96fe8998d93ef391.jpg",
+        "source": "Food52",
+        "url": "https://food52.com/recipes/38904-witch-s-brew",
+        "shareAs": "http://www.edamam.com/recipe/witch-s-brew-0fac0c348026281ddae5f2e045a955e6/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/0fac0c348026281ddae5f2e045a955e6?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_242aafeb9179841c428f626ee0b7c6b0",
+        "label": "Bubble Tea Recipe",
+        "image": "https://www.edamam.com/web-img/714/714436a5b7fdd98b84b8a7001314a4a5.jpg",
+        "source": "mealplannerpro.com",
+        "url": "https://mealplannerpro.com/member-recipes/bubble-tea-recipe-60516",
+        "shareAs": "http://www.edamam.com/recipe/bubble-tea-recipe-242aafeb9179841c428f626ee0b7c6b0/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/242aafeb9179841c428f626ee0b7c6b0?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2d9e0d7e00b56894a63b4e5734546c75",
+        "label": "Banana coconut puddings",
+        "image": "https://www.edamam.com/web-img/cee/cee99bead4f3543e07c78e2e880a5d0d.jpeg",
+        "source": "taste.com.au",
+        "url": "https://www.taste.com.au/recipes/banana-coconut-tapioca-puddings-che-chuoi/11a2af5a-925e-4491-b4bd-fb931a0487d8",
+        "shareAs": "http://www.edamam.com/recipe/banana-coconut-tapioca-puddings-che-chuoi-2d9e0d7e00b56894a63b4e5734546c75/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/2d9e0d7e00b56894a63b4e5734546c75?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_34f38df4df1cb1b994d5a16fe17109d7",
+        "label": "Brown Sugar Bubble Tea",
+        "image": "https://www.edamam.com/web-img/7f5/7f56d67f61af578d3e9c242f0535efc8",
+        "source": "Allrecipes",
+        "url": "https://www.allrecipes.com/recipe/279335/homemade-brown-sugar-bubble-tea/",
+        "shareAs": "http://www.edamam.com/recipe/homemade-brown-sugar-bubble-tea-34f38df4df1cb1b994d5a16fe17109d7/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/34f38df4df1cb1b994d5a16fe17109d7?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3e32a68851ee46fd7ca881d105ee0033",
+        "label": "Pumpkin Spice Bubble Tea",
+        "image": "https://www.edamam.com/web-img/77e/77e1239d9cfa58e21fc1fb90b4186a59",
+        "source": "honestlyyum.com",
+        "url": "http://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/",
+        "shareAs": "http://www.edamam.com/recipe/pumpkin-spice-bubble-tea-with-boba-recipes-3e32a68851ee46fd7ca881d105ee0033/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/3e32a68851ee46fd7ca881d105ee0033?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cca79b5df96fe41d4e003d9164a4af4b",
+        "label": "Melon Bubble Tea (Boba Tea)",
+        "image": "https://www.edamam.com/web-img/621/621688927c1e7e1695868ae5af49b39b.jpg",
+        "source": "recipezaar.com",
+        "url": "http://www.recipezaar.com/Melon-Bubble-Tea-Boba-Tea-155189",
+        "shareAs": "http://www.edamam.com/recipe/melon-bubble-tea-boba-tea-cca79b5df96fe41d4e003d9164a4af4b/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/cca79b5df96fe41d4e003d9164a4af4b?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f04cf2ef686735fc8e11e5b4c88a1874",
+        "label": "Watermelon Boba Slushie",
+        "image": "https://www.edamam.com/web-img/29e/29e9fc127ab207d2176b9beb7311b05c",
+        "source": "thebutterhalf.com",
+        "url": "http://www.thebutterhalf.com/watermelon-boba-slushie/",
+        "shareAs": "http://www.edamam.com/recipe/watermelon-boba-slushie-recipes-f04cf2ef686735fc8e11e5b4c88a1874/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f04cf2ef686735fc8e11e5b4c88a1874?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c1481808f80b194419395e0e411b1779",
+        "label": "Coconut Vanilla Boba recipes",
+        "image": "https://www.edamam.com/web-img/bd1/bd1b332dd7b3253b0d66c648bc9a81c0",
+        "source": "savorytooth.com",
+        "url": "http://www.savorytooth.com/coconut-vanilla-boba-bubble-tea/",
+        "shareAs": "http://www.edamam.com/recipe/coconut-vanilla-boba-bubble-tea-recipes-c1481808f80b194419395e0e411b1779/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/c1481808f80b194419395e0e411b1779?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_330c9148f24fb684e2da9645263f5c16",
+        "label": "Homemade Thai Iced Tea",
+        "image": "https://www.edamam.com/web-img/d0c/d0c3db3c0003c0180659457193aa8a2f.jpg",
+        "source": "ifood.tv",
+        "url": "https://ifood.tv/thai/133444-homemade-thai-iced-tea",
+        "shareAs": "http://www.edamam.com/recipe/homemade-thai-iced-tea-330c9148f24fb684e2da9645263f5c16/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/330c9148f24fb684e2da9645263f5c16?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_351ed93b8c1528dc000372dd74f6611c",
+        "label": "Melon Bubble Tea (Boba Tea)",
+        "image": "https://www.edamam.com/web-img/096/0963d2936309674f08eee65591e1741a.jpg",
+        "source": "food.com",
+        "url": "http://www.food.com/recipe/melon-bubble-tea-boba-tea-155189",
+        "shareAs": "http://www.edamam.com/recipe/melon-bubble-tea-boba-tea-351ed93b8c1528dc000372dd74f6611c/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/351ed93b8c1528dc000372dd74f6611c?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ba46b255a327be4bd472d561da500346",
+        "label": "Milk Tea Boba Recipe",
+        "image": "https://www.edamam.com/web-img/5c8/5c80b0884540364d706508a535e2565d.jpg",
+        "source": "San Francisco Gate",
+        "url": "http://www.sfgate.com/food/recipes/detail.html?rid=17775&sorig=qs",
+        "shareAs": "http://www.edamam.com/recipe/milk-tea-boba-ba46b255a327be4bd472d561da500346/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/ba46b255a327be4bd472d561da500346?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_23cc91f952fdbb41fe175c2da76266e1",
+        "label": "Strawberry Green Tea Boba",
+        "image": "https://www.edamam.com/web-img/240/240be523e644f170e0234666cf2dc985",
+        "source": "rasamalaysia.com",
+        "url": "http://rasamalaysia.com/strawberry-green-tea/",
+        "shareAs": "http://www.edamam.com/recipe/strawberry-green-tea-with-boba-recipes-23cc91f952fdbb41fe175c2da76266e1/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/23cc91f952fdbb41fe175c2da76266e1?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_13c6d456abd12a64816d3601d2a90a8c",
+        "label": "Matcha Boba Balls",
+        "image": "https://www.edamam.com/web-img/3b9/3b9a0936a29c0de2f45965390aab5cf9.png",
+        "source": "mypinterventures.com",
+        "url": "https://mypinterventures.com/how-to-make-matcha-boba-balls-from-scratch/",
+        "shareAs": "http://www.edamam.com/recipe/matcha-boba-balls-13c6d456abd12a64816d3601d2a90a8c/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/13c6d456abd12a64816d3601d2a90a8c?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c0e2f1916cbc5d657d2db7fe996ed8f0",
+        "label": "LaRaine's Oat Pancakes",
+        "image": "https://www.edamam.com/web-img/9ad/9ad9a8394c6c90b7d413e594a49966b9.jpg",
+        "source": "recipes.sparkpeople.com",
+        "url": "https://recipes.sparkpeople.com/recipe-detail.asp?recipe=54052",
+        "shareAs": "http://www.edamam.com/recipe/laraine-s-whole-wheat-and-oat-pancakes-c0e2f1916cbc5d657d2db7fe996ed8f0/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/c0e2f1916cbc5d657d2db7fe996ed8f0?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7e8286d9c8c5325bcc1e7f24971f5a39",
+        "label": "Bubble Tea Recipe",
+        "image": "https://www.edamam.com/web-img/6f3/6f31a2da690e7331f6c28bc30e296694.jpg",
+        "source": "eclecticrecipes.com",
+        "url": "http://eclecticrecipes.com/bubble-tea-recipe",
+        "shareAs": "http://www.edamam.com/recipe/bubble-tea-recipe-7e8286d9c8c5325bcc1e7f24971f5a39/boba"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/7e8286d9c8c5325bcc1e7f24971f5a39?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    }
+  ]
+}

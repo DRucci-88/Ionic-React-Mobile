@@ -1,0 +1,33 @@
+.container-keep-exploring{
+    position: relative;
+}
+.container-keep-exploring img{
+    opacity: 0.5;
+    padding: 8%;
+}
+
+.container-keep-exploring ion-button{
+    text-transform: none;
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+
+.container-goodbye {
+    position: relative;
+}
+
+.container-goodbye img {
+    opacity: 0.8;
+}
+
+.left {
+    position: absolute;
+    left: 10px;
+    top: 20%;
+}
+

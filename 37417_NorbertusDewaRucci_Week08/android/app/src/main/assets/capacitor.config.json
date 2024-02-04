@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Memories",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

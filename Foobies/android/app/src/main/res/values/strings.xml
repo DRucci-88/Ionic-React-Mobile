@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Foobies</string>
+    <string name="title_activity_main">Foobies</string>
+    <string name="package_name">com.noobmaster.ionic.foobies</string>
+    <string name="custom_url_scheme">com.noobmaster.ionic.foobies</string>
+</resources>

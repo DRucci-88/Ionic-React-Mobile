@@ -1,0 +1,348 @@
+{
+  "from": 1,
+  "to": 20,
+  "count": 10000,
+  "_links": {},
+  "hits": [
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_294131db36cd270f709e61c053bf21e4",
+        "label": "Thai Broccoli Slaw",
+        "image": "https://www.edamam.com/web-img/05b/05bf5a6e7a0419418f0505ee6da741aa",
+        "source": "Betty Crocker",
+        "url": "http://www.bettycrocker.com/recipes/thai-broccoli-slaw/483e6c4a-03af-4197-bb44-b356bbe4b30d",
+        "shareAs": "http://www.edamam.com/recipe/thai-broccoli-slaw-recipes-294131db36cd270f709e61c053bf21e4/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/294131db36cd270f709e61c053bf21e4?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0036923f97b8dfcf64a6744926ee5891",
+        "label": "Loaded Naan Nachos",
+        "image": "https://www.edamam.com/web-img/38e/38ebf069bb338553a3f2855bc9515358.jpg",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2015/04/loaded-naan-nachos-recipe.html",
+        "shareAs": "http://www.edamam.com/recipe/loaded-naan-nachos-with-ground-lamb-and-crispy-chickpeas-recipe-0036923f97b8dfcf64a6744926ee5891/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/0036923f97b8dfcf64a6744926ee5891?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ebe429b529189235fba7574e8d5b5119",
+        "label": "Teriyaki BBQ Ribs",
+        "image": "https://www.edamam.com/web-img/3b3/3b3aefdd1fd921b8670be0e549f54b08.jpg",
+        "source": "keeprecipes.com",
+        "url": "https://keeprecipes.com/recipe/howtocook/teriyaki-bbq-ribs",
+        "shareAs": "http://www.edamam.com/recipe/teriyaki-bbq-ribs-ebe429b529189235fba7574e8d5b5119/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/ebe429b529189235fba7574e8d5b5119?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f3499c5a6e87b4ee7bf42358ddb86da0",
+        "label": "Indian Spiced Chicken",
+        "image": "https://www.edamam.com/web-img/e37/e374bc6d33cfc05eec7460f7645bf32c.jpg",
+        "source": "Allrecipes",
+        "url": "https://www.allrecipes.com/recipe/242006/indian-spiced-chicken/",
+        "shareAs": "http://www.edamam.com/recipe/indian-spiced-chicken-f3499c5a6e87b4ee7bf42358ddb86da0/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f3499c5a6e87b4ee7bf42358ddb86da0?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3929b1368bddda12a935f6890b9064a3",
+        "label": "Satay potato curry",
+        "image": "https://www.edamam.com/web-img/9f5/9f5f1c42ad1a0dd004e47d2df1faf8b2.jpg",
+        "source": "BBC Good Food",
+        "url": "https://www.bbcgoodfood.com/recipes/satay-sweet-potato-curry",
+        "shareAs": "http://www.edamam.com/recipe/satay-sweet-potato-curry-3929b1368bddda12a935f6890b9064a3/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/3929b1368bddda12a935f6890b9064a3?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_35ded162e6e4806df81c3d572013a442",
+        "label": "Pineapple Shrimp Curry",
+        "image": "https://www.edamam.com/web-img/626/62624131f3b3e0205daaad91198eb5a0",
+        "source": "dolesunshine.com",
+        "url": "https://dolesunshine.com/recipes/thai-pineapple-shrimp-curry-with-jasmine-rice-and-fragrant-herbs",
+        "shareAs": "http://www.edamam.com/recipe/thai-pineapple-shrimp-curry-35ded162e6e4806df81c3d572013a442/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/35ded162e6e4806df81c3d572013a442?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1144e0748874ef4ce6e1fd0bba574a5d",
+        "label": "Spicy Georgia Chicken",
+        "image": "https://www.edamam.com/web-img/097/097d74f8bc54f1e4b802afeec4fb4426.jpg",
+        "source": "BigOven",
+        "url": "http://www.bigoven.com/recipe/Spicy-Georgia-Peach-Chicken/200164",
+        "shareAs": "http://www.edamam.com/recipe/spicy-georgia-peach-chicken-1144e0748874ef4ce6e1fd0bba574a5d/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/1144e0748874ef4ce6e1fd0bba574a5d?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7bbcd86e079c98d4d473ce29f4f857ec",
+        "label": "Risotto Con Radicchio",
+        "image": "https://www.edamam.com/web-img/32c/32c1c40b34419e331138c3cd016dc07a.jpg",
+        "source": "Allrecipes",
+        "url": "https://www.allrecipes.com/recipe/257641/risotto-con-radicchio-gorgonzola-noci-e-crema-di-balsamico/",
+        "shareAs": "http://www.edamam.com/recipe/risotto-con-radicchio-gorgonzola-noci-e-crema-di-balsamico-7bbcd86e079c98d4d473ce29f4f857ec/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/7bbcd86e079c98d4d473ce29f4f857ec?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a09832aaade31842fb70bb634db8e91a",
+        "label": "Crispy Chocolate Log",
+        "image": "https://www.edamam.com/web-img/4bf/4bf0ca3e3fe34b5c99c3aa466d6264c9",
+        "source": "Taste of Home",
+        "url": "http://www.tasteofhome.com/recipes/crispy-chocolate-log",
+        "shareAs": "http://www.edamam.com/recipe/crispy-chocolate-log-recipes-a09832aaade31842fb70bb634db8e91a/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/a09832aaade31842fb70bb634db8e91a?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f7c9c313ca3b1406f494d6f8539c5546",
+        "label": "Tava Pulao Recipe",
+        "image": "https://www.edamam.com/web-img/47c/47c58f3d590ff8561d730097301cb37a.jpg",
+        "source": "bigbasket.com",
+        "url": "https://www.bigbasket.com/cookbook/recipes/146/tava-pulao/",
+        "shareAs": "http://www.edamam.com/recipe/tava-pulao-f7c9c313ca3b1406f494d6f8539c5546/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f7c9c313ca3b1406f494d6f8539c5546?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_07c61e582bb5c26dd68566079a1ec10d",
+        "label": "Chilli BBQ rice Recipe",
+        "image": "https://www.edamam.com/web-img/9b0/9b0c753da2b4d39aa9ab8fd8de34e334",
+        "source": "amummytoo.co.uk",
+        "url": "http://www.amummytoo.co.uk/2013/09/chilli-bbq-rice-with-halloumi-and-garlic-vegetables-recipe-ready-in-10-minutes/",
+        "shareAs": "http://www.edamam.com/recipe/chilli-bbq-rice-with-halloumi-and-garlic-vegetables-recipe-ready-in-10-minutes-recipes-07c61e582bb5c26dd68566079a1ec10d/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/07c61e582bb5c26dd68566079a1ec10d?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_be0e325ae474acc7f56e04a2c665057b",
+        "label": "Mango Rice recipes",
+        "image": "https://www.edamam.com/web-img/cb8/cb847746185243bebf5fd0fb75ea1b49",
+        "source": "currytrail.in",
+        "url": "http://currytrail.in/2016/06/raw-mango-rice/",
+        "shareAs": "http://www.edamam.com/recipe/raw-mango-rice-recipes-be0e325ae474acc7f56e04a2c665057b/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/be0e325ae474acc7f56e04a2c665057b?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_62b86c41eee2973de6c2576054c43f8d",
+        "label": "Candy Cane Cookies",
+        "image": "https://www.edamam.com/web-img/0a7/0a7a069ea90be33c61b47cef9f93caba",
+        "source": "laurainthekitchen.com",
+        "url": "http://www.laurainthekitchen.com/recipes/crispy-rice-treats/",
+        "shareAs": "http://www.edamam.com/recipe/candy-cane-cookies-recipes-62b86c41eee2973de6c2576054c43f8d/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/62b86c41eee2973de6c2576054c43f8d?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3c6f72a71347f59dbde5102b81f78d63",
+        "label": "Risotto & Especially",
+        "image": "https://www.edamam.com/web-img/713/713bb4bd2c4cd143d7baae82b9b451bb",
+        "source": "thebusinesswomanskitchen.de",
+        "url": "http://thebusinesswomanskitchen.de/index.php/about-risotto-especially-risotto-al-mare/",
+        "shareAs": "http://www.edamam.com/recipe/about-risotto-especially-risotto-al-mare-recipes-3c6f72a71347f59dbde5102b81f78d63/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/3c6f72a71347f59dbde5102b81f78d63?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6574e52fb3d91cb065bc985a1b6a46ed",
+        "label": "Pumpkin Risotto Bacon",
+        "image": "https://www.edamam.com/web-img/523/5230cd431e1916526e0cfb70e26f31ca",
+        "source": "cookingandbeer.com",
+        "url": "http://www.cookingandbeer.com/2015/09/pumpkin-risotto-with-bacon/",
+        "shareAs": "http://www.edamam.com/recipe/pumpkin-risotto-with-bacon-recipes-6574e52fb3d91cb065bc985a1b6a46ed/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/6574e52fb3d91cb065bc985a1b6a46ed?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7260b88a4ff18a9561d2e0d2b33cc284",
+        "label": "Pumpkin Ginger Rice",
+        "image": "https://www.edamam.com/web-img/639/639fb70a16fbb7351c920ed008254961.jpg",
+        "source": "Epicurious",
+        "url": "https://www.epicurious.com/recipes/food/views/pumpkin-ginger-rice-pudding-108775",
+        "shareAs": "http://www.edamam.com/recipe/pumpkin-ginger-rice-pudding-7260b88a4ff18a9561d2e0d2b33cc284/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/7260b88a4ff18a9561d2e0d2b33cc284?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a1a892d9c2e2e7e2961ba9987d34b1fe",
+        "label": "Lemon & ricotta-filled",
+        "image": "https://www.edamam.com/web-img/d5b/d5b546867761f0395949b62b90d80997.jpg",
+        "source": "womensweeklyfood.com.au",
+        "url": "https://www.womensweeklyfood.com.au/recipes/lemon-and-ricotta-filled-zucchini-flowers-15313",
+        "shareAs": "http://www.edamam.com/recipe/lemon-ricotta-filled-zucchini-flowers-a1a892d9c2e2e7e2961ba9987d34b1fe/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/a1a892d9c2e2e7e2961ba9987d34b1fe?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2215803e34eee4b3492effd9a76e05f5",
+        "label": "Japanese tuna balls",
+        "image": "https://www.edamam.com/web-img/9ca/9cab2c8786a728f7fe6b7ae8aa9b3183.jpg",
+        "source": "taste.com.au",
+        "url": "https://www.taste.com.au/recipes/japanese-tuna-sesame-balls-wasabi-mayonnaise-dip/tsjjq2yx",
+        "shareAs": "http://www.edamam.com/recipe/japanese-tuna-and-sesame-balls-with-wasabi-mayonnaise-dip-2215803e34eee4b3492effd9a76e05f5/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/2215803e34eee4b3492effd9a76e05f5?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cd5f23b1fd70a64b8df98fbbc82c8738",
+        "label": "Lazy Cabbage Rolls",
+        "image": "https://www.edamam.com/web-img/9e2/9e231a4e7eac4d4a6770a4f6f735539d.jpg",
+        "source": "melangery.com",
+        "url": "https://www.melangery.com/2015/10/russian-monday-lenivie-golubtsy-lazy.html",
+        "shareAs": "http://www.edamam.com/recipe/lazy-style-cabbage-rolls-cd5f23b1fd70a64b8df98fbbc82c8738/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/cd5f23b1fd70a64b8df98fbbc82c8738?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f9ba0204b657a84c9415a4168d06a226",
+        "label": "Pot Fluffy Rice",
+        "image": "https://www.edamam.com/web-img/553/553fca261b415ecdc006637323bb5f7a.jpg",
+        "source": "mommyshomecooking.com",
+        "url": "https://mommyshomecooking.com/instant-pot-fluffy-rice",
+        "shareAs": "http://www.edamam.com/recipe/instant-pot-fluffy-rice-f9ba0204b657a84c9415a4168d06a226/rice"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f9ba0204b657a84c9415a4168d06a226?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    }
+  ]
+}

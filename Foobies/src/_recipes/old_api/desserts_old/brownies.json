@@ -1,0 +1,348 @@
+{
+  "from": 1,
+  "to": 20,
+  "count": 10000,
+  "_links": {},
+  "hits": [
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e607ce5bdf14997c5b2dfe7d453f6a65",
+        "label": "Copycat Starbucks Double Chocolate Brownies",
+        "image": "https://www.edamam.com/web-img/522/522b8d5bf6c70bdf0907ebbe5672ab25.png",
+        "source": "dashofsanity.com",
+        "url": "https://dashofsanity.com/copycat-starbucks-double-chocolate-brownies/",
+        "shareAs": "http://www.edamam.com/recipe/copycat-starbucks-double-chocolate-brownies-e607ce5bdf14997c5b2dfe7d453f6a65/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/e607ce5bdf14997c5b2dfe7d453f6a65?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fafa17a6c5066585d3a2fc365f373e16",
+        "label": "Mexican Hot Chocolate Brownies recipes",
+        "image": "https://www.edamam.com/web-img/567/56700743cb61fc7d61d3f6d183aabced",
+        "source": "busyinbrooklyn.com",
+        "url": "http://www.busyinbrooklyn.com/mexican-hot-chocolate-brownies/",
+        "shareAs": "http://www.edamam.com/recipe/mexican-hot-chocolate-brownies-recipes-fafa17a6c5066585d3a2fc365f373e16/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/fafa17a6c5066585d3a2fc365f373e16?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_531fdb4720df8f033eb8cde3229a5b91",
+        "label": "Mocha Mousse Brownies Recipe 4",
+        "image": "https://www.edamam.com/web-img/3f0/3f0393589518e475c722ca8842c60ca0.jpg",
+        "source": "Taste of Home",
+        "url": "http://www.tasteofhome.com/Recipes/Mocha-Mousse-Brownies",
+        "shareAs": "http://www.edamam.com/recipe/mocha-mousse-brownies-recipe-4-531fdb4720df8f033eb8cde3229a5b91/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/531fdb4720df8f033eb8cde3229a5b91?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_03221de3b13239536a6b4771ce13ae27",
+        "label": "Peanut Buttery Brownie Sandwich",
+        "image": "https://www.edamam.com/web-img/aa4/aa4d61a9ad449277f4dfe018b678e113.jpg",
+        "source": "tablespoon.com",
+        "url": "https://www.tablespoon.com/recipes/sprinkled-brownie-pop/6a157f58-f496-44d3-815a-c6f0c58c2990",
+        "shareAs": "http://www.edamam.com/recipe/peanut-buttery-brownie-sandwich-03221de3b13239536a6b4771ce13ae27/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/03221de3b13239536a6b4771ce13ae27?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1d86e04e0a9f78c94bb9e24121e22965",
+        "label": "Rich And Dense Brownies With Rocky Road Topping",
+        "image": "https://www.edamam.com/web-img/183/183d26c74534d3d52e20c13635fdcf59.jpg",
+        "source": "parade.condenast.com",
+        "url": "http://parade.condenast.com/331791/benrayl/rocky-road-returnsin-brownie-form/",
+        "shareAs": "http://www.edamam.com/recipe/rich-and-dense-brownies-with-rocky-road-topping-1d86e04e0a9f78c94bb9e24121e22965/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/1d86e04e0a9f78c94bb9e24121e22965?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c982028befe58449a3082fcbc0190ac4",
+        "label": "Nutella No-Bake Brownies",
+        "image": "https://www.edamam.com/web-img/d9e/d9e81c211b0a817e84fde7b6da47bfdf.jpg",
+        "source": "teffyperk.com",
+        "url": "http://www.teffyperk.com/nutella-brownies/",
+        "shareAs": "http://www.edamam.com/recipe/nutella-no-bake-brownies-c982028befe58449a3082fcbc0190ac4/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/c982028befe58449a3082fcbc0190ac4?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2918425954b6a3b24bd043f2fe2e09c2",
+        "label": "Marbled cheesecake brownies",
+        "image": "https://www.edamam.com/web-img/c50/c50f8d777b38459f557878298ae755aa.jpg",
+        "source": "womensweeklyfood.com.au",
+        "url": "https://www.womensweeklyfood.com.au/recipes/marbled-cheesecake-brownies-21582",
+        "shareAs": "http://www.edamam.com/recipe/marbled-cheesecake-brownies-2918425954b6a3b24bd043f2fe2e09c2/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/2918425954b6a3b24bd043f2fe2e09c2?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_352645f36e16a4425d6796e8fedfe1ca",
+        "label": "Best brownie Recipe for Kids",
+        "image": "https://www.edamam.com/web-img/65f/65f396c818f1287ba3a92921a265f198.jpg",
+        "source": "jellibeanjournals.com",
+        "url": "http://www.jellibeanjournals.com/best-brownie-recipe-for-kids/",
+        "shareAs": "http://www.edamam.com/recipe/best-brownie-recipe-for-kids-352645f36e16a4425d6796e8fedfe1ca/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/352645f36e16a4425d6796e8fedfe1ca?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_75d57a1123e1a90f3f09d94f5965ff51",
+        "label": "Chocolate Brownies",
+        "image": "https://www.edamam.com/web-img/3fb/3fb9cdb933936f44108c9bf901b1831b.jpg",
+        "source": "afeliaskitchen.com",
+        "url": "http://www.afeliaskitchen.com/chocolate-brownies/",
+        "shareAs": "http://www.edamam.com/recipe/chocolate-brownies-75d57a1123e1a90f3f09d94f5965ff51/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/75d57a1123e1a90f3f09d94f5965ff51?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_92d71b0051f7da2c8453f37a70144d07",
+        "label": "Snickers Rocky Road Brownies recipes",
+        "image": "https://www.edamam.com/web-img/14c/14c1fa0727cdb9c05f679a874fa594a5",
+        "source": "igobogo.com",
+        "url": "http://www.igobogo.com/featured-articles/snickers-rocky-road-brownies/",
+        "shareAs": "http://www.edamam.com/recipe/snickers-rocky-road-brownies-recipes-92d71b0051f7da2c8453f37a70144d07/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/92d71b0051f7da2c8453f37a70144d07?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_23ad41506dadb8ba9b2bfd5a25a0616c",
+        "label": "The Best Brownies AKA Chocolate Chewy Wonders recipes",
+        "image": "https://www.edamam.com/web-img/afe/afebad9cbcd71346799ebd9bade34e52",
+        "source": "thekitchenmagpie.com",
+        "url": "http://www.thekitchenmagpie.com/the-best-brownies-aka-chocolate-chewy-wonders/",
+        "shareAs": "http://www.edamam.com/recipe/the-best-brownies-aka-chocolate-chewy-wonders-recipes-23ad41506dadb8ba9b2bfd5a25a0616c/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/23ad41506dadb8ba9b2bfd5a25a0616c?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ed3375501737b992a9d112bacabe38c7",
+        "label": "Vegan, Gluten Free Date & Coconut Brownie recipes",
+        "image": "https://www.edamam.com/web-img/2f0/2f04ec211b5f03d424fa023b7500b853",
+        "source": "organicauthority.com",
+        "url": "http://www.organicauthority.com/vegan-gluten-free-brownie-recipe-with-dates-figs-and-coconut-three-ways/",
+        "shareAs": "http://www.edamam.com/recipe/vegan-gluten-free-date-coconut-brownie-recipes-ed3375501737b992a9d112bacabe38c7/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/ed3375501737b992a9d112bacabe38c7?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f7fdc7943129aaf8557535cbfe9ce8a0",
+        "label": "Chocolate Chip Brownies recipes",
+        "image": "https://www.edamam.com/web-img/2da/2dace4f7404356d8d2a4e4a8ec0526ae",
+        "source": "chocolatesandchai.com",
+        "url": "http://www.chocolatesandchai.com/chocolate-chip-brownies/",
+        "shareAs": "http://www.edamam.com/recipe/chocolate-chip-brownies-recipes-f7fdc7943129aaf8557535cbfe9ce8a0/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f7fdc7943129aaf8557535cbfe9ce8a0?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d6f928369fc7725a6f149bbb4ca00fab",
+        "label": "Dairy Free Fudge Brownie Ice Cream",
+        "image": "https://www.edamam.com/web-img/730/73010448fcf184a9bf6a6eeb20881c5f.jpg",
+        "source": "onelovelylife.com",
+        "url": "https://www.onelovelylife.com/dairy-free-fudge-brownie-ice-cream/",
+        "shareAs": "http://www.edamam.com/recipe/dairy-free-fudge-brownie-ice-cream-d6f928369fc7725a6f149bbb4ca00fab/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/d6f928369fc7725a6f149bbb4ca00fab?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_38611e5ae712b2bf58d6ab29d07ea932",
+        "label": "Instant Pot Brownies | Healthy Brownies",
+        "image": "https://www.edamam.com/web-img/48b/48bcd12812ab99239d78065688bc61eb.jpg",
+        "source": "mycrazygoodlife.com",
+        "url": "https://mycrazygoodlife.com/instant-pot-brownies-21-day-fix-treat-swap",
+        "shareAs": "http://www.edamam.com/recipe/instant-pot-brownies-healthy-brownies-38611e5ae712b2bf58d6ab29d07ea932/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/38611e5ae712b2bf58d6ab29d07ea932?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2b28030ab62f72e73c65e849cda988de",
+        "label": "Black Bean Chocolate Chunk Brownies recipes",
+        "image": "https://www.edamam.com/web-img/d95/d95cf9149b245e45fa9f8a82b4542d9c",
+        "source": "pulsepledge.com",
+        "url": "https://pulsepledge.com/recipe/black-bean-chocolate-chunk-brownies/",
+        "shareAs": "http://www.edamam.com/recipe/black-bean-chocolate-chunk-brownies-recipes-2b28030ab62f72e73c65e849cda988de/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/2b28030ab62f72e73c65e849cda988de?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2b84b6e3f7d7d356a53238a17ce72e64",
+        "label": "Makeover Rocky Road Fudge Brownies Recipe 4",
+        "image": "https://www.edamam.com/web-img/e35/e35244a4334e1c8003b5d246a0098e30.jpg",
+        "source": "Taste of Home",
+        "url": "http://www.tasteofhome.com/Recipes/Makeover-Rocky-Road-Fudge-Brownies",
+        "shareAs": "http://www.edamam.com/recipe/makeover-rocky-road-fudge-brownies-recipe-4-2b84b6e3f7d7d356a53238a17ce72e64/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/2b84b6e3f7d7d356a53238a17ce72e64?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cb6fc8e60497eb467429756e357d3a7a",
+        "label": "Godiva Brownies",
+        "image": "https://www.edamam.com/web-img/e5f/e5f4080a4bdb4abef3ea877070631422.jpg",
+        "source": "food.com",
+        "url": "http://www.food.com/recipe/godiva-brownies-340126",
+        "shareAs": "http://www.edamam.com/recipe/godiva-brownies-cb6fc8e60497eb467429756e357d3a7a/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/cb6fc8e60497eb467429756e357d3a7a?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c9f733744640e85610fffef1647cca4c",
+        "label": "Peanut Butter Cup Brownies",
+        "image": "https://www.edamam.com/web-img/d80/d8023c1b307511a8e85aeb2c222e180d.jpg",
+        "source": "poetinthepantry.com",
+        "url": "http://poetinthepantry.com/2015/10/31/peanut-butter-cup-brownies/",
+        "shareAs": "http://www.edamam.com/recipe/peanut-butter-cup-brownies-c9f733744640e85610fffef1647cca4c/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/c9f733744640e85610fffef1647cca4c?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0c3d483182125dd42e4d375f81bec67e",
+        "label": "Fudgy Nut Brownies Recipe 4",
+        "image": "https://www.edamam.com/web-img/5d9/5d909d878940be98e6062d81727aceef.jpg",
+        "source": "Taste of Home",
+        "url": "http://www.tasteofhome.com/Recipes/Fudgy-Nut-Brownies",
+        "shareAs": "http://www.edamam.com/recipe/fudgy-nut-brownies-recipe-4-0c3d483182125dd42e4d375f81bec67e/brownies"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/0c3d483182125dd42e4d375f81bec67e?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    }
+  ]
+}

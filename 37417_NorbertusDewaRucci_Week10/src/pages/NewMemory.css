@@ -1,0 +1,23 @@
+.image-preview{
+    /*border-style: solid;*/
+    /*border-color: red;*/
+    /*border-width: 50px;*/
+    width: fit-content;
+    max-width: 300px;
+    min-width: 200px;
+    min-height: 200px;
+    margin: auto;
+    border: 3px solid #2dd36f;
+    color: #2dd36f;
+}
+
+.image-preview h3 {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image-preview img {
+    widows: inherit;
+}

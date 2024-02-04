@@ -1,0 +1,10 @@
+.crush ion-avatar{
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 0%;
+}
+
+.ava{
+    /*background: url('../photos/profil.jpg');*/
+    background-size: cover;
+}

@@ -1,0 +1,90 @@
+ion-title.large-title {
+    color: purple;
+    font-size: 30px;
+}
+ion-slides {
+    height: auto;
+    width: auto;
+    background-color: rgb(255, 255, 255);
+    color: brown;
+}
+
+.container {
+    columns: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+
+.container img {
+    width: 100px;
+    height: auto;
+}
+
+.container-img{
+    position: relative;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 28px;
+}
+
+ion-row img{
+    width: 200px;
+    height: 170px;
+}
+
+ion-text {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.1); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 30px;
+}
+ion-card {
+    --height: max-content;
+}
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+
+.hero-text button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 10px 25px;
+    border-radius: 50px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+
+    cursor: pointer;
+}
+
+.hero-text button:hover {
+    background-color: #555;
+    color: white;
+}
+.image-grid {
+    --gap: 16px;
+    --num-cols: 4;
+    --row-height: 300px;
+
+    box-sizing: border-box;
+    padding: var(--gap);
+
+    display: grid;
+    grid-template-columns: repeat(var(--num-cols), 1fr);
+    grid-auto-rows: var(--row-height);
+    gap: var(--gap);
+}

@@ -1,0 +1,347 @@
+{
+  "from": 1,
+  "to": 20,
+  "count": 10000,
+  "_links": {},
+  "hits": [
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2754b4b3066b1c432ff24185a105ce11",
+        "label": "Layered Mud Pie",
+        "image": "https://www.edamam.com/web-img/610/6106e020a5311ebfaf83eccd715710e8.jpg",
+        "source": "tastykitchen.com",
+        "url": "https://tastykitchen.com/recipes/desserts/layered-mud-pie/",
+        "shareAs": "http://www.edamam.com/recipe/layered-mud-pie-2754b4b3066b1c432ff24185a105ce11/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/2754b4b3066b1c432ff24185a105ce11?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bbe2e75e0fba3118fb433e7d0469a70a",
+        "label": "Chocolate Sweet Potato Pudding",
+        "image": "https://www.edamam.com/web-img/b27/b2734ae950ea514fd942e635c6e896e1.jpg",
+        "source": "insideouthealth.com.au",
+        "url": "http://insideouthealth.com.au/chocolate-sweet-potato-pudding/",
+        "shareAs": "http://www.edamam.com/recipe/chocolate-sweet-potato-pudding-bbe2e75e0fba3118fb433e7d0469a70a/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/bbe2e75e0fba3118fb433e7d0469a70a?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1557770abe185e57875d21343d879da1",
+        "label": "Beks Lemon Meringue Tea Cakes Recipe",
+        "image": "https://www.edamam.com/web-img/580/580fe7bd3a69e16459d8d88de7ab807e.jpg",
+        "source": "Group Recipes",
+        "url": "http://www.grouprecipes.com/49224/beks-lemon-meringue-tea-cakes.html",
+        "shareAs": "http://www.edamam.com/recipe/beks-lemon-meringue-tea-cakes-recipe-1557770abe185e57875d21343d879da1/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/1557770abe185e57875d21343d879da1?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8ac88e764e301a5d6bc248df44f1a177",
+        "label": "Chocolate Self Saucing Puddings",
+        "image": "https://www.edamam.com/web-img/70e/70ef333e621578860a4eff3e9afe7257.jpg",
+        "source": "food.com",
+        "url": "http://www.food.com/recipe/chocolate-self-saucing-puddings-420976",
+        "shareAs": "http://www.edamam.com/recipe/chocolate-self-saucing-puddings-8ac88e764e301a5d6bc248df44f1a177/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/8ac88e764e301a5d6bc248df44f1a177?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_194eb1d340a3300c6ade3419067aada2",
+        "label": "Peaches and Cream Pie",
+        "image": "https://www.edamam.com/web-img/890/890cc131a281fa065d05e29ab7407006.JPG",
+        "source": "food.com",
+        "url": "http://www.food.com/recipe/peaches-and-cream-pie-249431",
+        "shareAs": "http://www.edamam.com/recipe/peaches-and-cream-pie-194eb1d340a3300c6ade3419067aada2/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/194eb1d340a3300c6ade3419067aada2?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8e09ca35511e5084da309c4afc31f3b0",
+        "label": "Chocolate Chia Pudding",
+        "image": "https://www.edamam.com/web-img/506/5065b8f6bb6a8d9383c8bedb07d7c0ec.jpg",
+        "source": "ravienomnoms.com",
+        "url": "http://ravienomnoms.com/2014/06/13/guest-post-chocolate-chia-pudding-with-curry-and-comfort/",
+        "shareAs": "http://www.edamam.com/recipe/chocolate-chia-pudding-8e09ca35511e5084da309c4afc31f3b0/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/8e09ca35511e5084da309c4afc31f3b0?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f4ff49629c07299511e4780db4c95c9d",
+        "label": "Creamy Chocolate Pudding Recipe 5",
+        "image": "https://www.edamam.com/web-img/4ad/4ad54732085cf74bd87500fb8fbc42fb.jpg",
+        "source": "Taste of Home",
+        "url": "http://www.tasteofhome.com/Recipes/Creamy-Chocolate-Pudding",
+        "shareAs": "http://www.edamam.com/recipe/creamy-chocolate-pudding-recipe-5-f4ff49629c07299511e4780db4c95c9d/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f4ff49629c07299511e4780db4c95c9d?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_762f1eb34bacfc950d427107d5fbce07",
+        "label": "Cherry Fluff Lite Recipe",
+        "image": "https://www.edamam.com/web-img/10c/10cce67521bd81736b31302b06fb0068.jpg",
+        "source": "recipeofhealth.com",
+        "url": "http://recipeofhealth.com/recipe/cherry-fluff-lite-403293rb",
+        "shareAs": "http://www.edamam.com/recipe/cherry-fluff-lite-recipe-762f1eb34bacfc950d427107d5fbce07/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/762f1eb34bacfc950d427107d5fbce07?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e64aaa881be7d242d6f754ece5e7c44f",
+        "label": "Cranberry Bread Pudding",
+        "image": "https://www.edamam.com/web-img/c6d/c6d6ac1f8009162a7d1553955fe7eb1a.jpg",
+        "source": "jtawellness.com",
+        "url": "http://www.jtawellness.com/2016/12/cranberry-bread-pudding/",
+        "shareAs": "http://www.edamam.com/recipe/cranberry-bread-pudding-e64aaa881be7d242d6f754ece5e7c44f/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/e64aaa881be7d242d6f754ece5e7c44f?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b491c59604ed6751aebe20beaa2f76b2",
+        "label": "Another Banana Pudding Recipe",
+        "image": "https://www.edamam.com/web-img/cc6/cc6bc63992f7da54c4156b0c3e76b796.jpg",
+        "source": "BigOven",
+        "url": "https://www.bigoven.com/recipe/another-banana-pudding-recipe/222946",
+        "shareAs": "http://www.edamam.com/recipe/another-banana-pudding-recipe-b491c59604ed6751aebe20beaa2f76b2/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/b491c59604ed6751aebe20beaa2f76b2?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3135043c5117d739d45d12b4047f91c8",
+        "label": "Old-Fashioned Chocolate Pudding",
+        "image": "https://www.edamam.com/web-img/dfd/dfd49b20c28094aa8d8d16de91242436.jpg",
+        "source": "wholeandheavenlyoven.com",
+        "url": "https://wholeandheavenlyoven.com/2014/02/17/old-fashioned-chocolate-pudding/"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/3135043c5117d739d45d12b4047f91c8?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a418f4fafd5c9718c5dfddda1c963e10",
+        "label": "Birthday Cheesecakes",
+        "image": "https://www.edamam.com/web-img/a5f/a5f49e2a006658da21fc6c87c43eedc5.jpg",
+        "source": "tastykitchen.com",
+        "url": "https://tastykitchen.com/recipes/desserts/birthday-cheesecakes/",
+        "shareAs": "http://www.edamam.com/recipe/birthday-cheesecakes-a418f4fafd5c9718c5dfddda1c963e10/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/a418f4fafd5c9718c5dfddda1c963e10?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ef112167315655df7ab86b7fd8505b8f",
+        "label": "Chocolate Kahlua bread and butter puddings",
+        "image": "https://www.edamam.com/web-img/ecc/eccab35d7f9799834d49ffd0852abaa7.jpeg",
+        "source": "taste.com.au",
+        "url": "https://www.taste.com.au/recipes/chocolate-kahlua-bread-butter-puddings/3beabd66-c4df-4811-b3ba-43a47df138d6",
+        "shareAs": "http://www.edamam.com/recipe/chocolate-kahlua-bread-and-butter-puddings-ef112167315655df7ab86b7fd8505b8f/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/ef112167315655df7ab86b7fd8505b8f?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4c244302502bef3f8ed06380669ff38a",
+        "label": "Raw Vegan Chocolate Pudding – Soy and Avocado Free",
+        "image": "https://www.edamam.com/web-img/053/053b9203aea5576d5e447f6cb4a47524.jpg",
+        "source": "mealplannerpro.com",
+        "url": "https://mealplannerpro.com/member-recipes/raw-vegan-chocolate-pudding-soy-and-avocado-free-514274",
+        "shareAs": "http://www.edamam.com/recipe/raw-vegan-chocolate-pudding-soy-and-avocado-free-4c244302502bef3f8ed06380669ff38a/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/4c244302502bef3f8ed06380669ff38a?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a3135bf159c973de1452779fa6edaba1",
+        "label": "Triple Chocolate Trifle",
+        "image": "https://www.edamam.com/web-img/45d/45d35e14cd81b1acc9dc0c58e5db3428.jpg",
+        "source": "tastesbetterfromscratch.com",
+        "url": "https://tastesbetterfromscratch.com/triple-chocolate-trifle/",
+        "shareAs": "http://www.edamam.com/recipe/triple-chocolate-trifle-a3135bf159c973de1452779fa6edaba1/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/a3135bf159c973de1452779fa6edaba1?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_45dc74493d7d99031f700d05cc9d3c28",
+        "label": "Simply The Best Yorkshire Puddings",
+        "image": "https://www.edamam.com/web-img/c04/c0417431c499d5ee2fa100d5012ea89a.jpg",
+        "source": "threekidsandcountingthepennies.com",
+        "url": "http://www.threekidsandcountingthepennies.com/simply-the-best-yorkshire-puddings/",
+        "shareAs": "http://www.edamam.com/recipe/simply-the-best-yorkshire-puddings-45dc74493d7d99031f700d05cc9d3c28/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/45dc74493d7d99031f700d05cc9d3c28?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_43eaa016c6afe4acb88be63f1288c471",
+        "label": "Rice Pudding",
+        "image": "https://www.edamam.com/web-img/596/596e982b4a54f6b23436c333363eb75c",
+        "source": "Food52",
+        "url": "https://food52.com/recipes/17858-rice-pudding",
+        "shareAs": "http://www.edamam.com/recipe/rice-pudding-43eaa016c6afe4acb88be63f1288c471/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/43eaa016c6afe4acb88be63f1288c471?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_14cba5202074d9a6d413413fa2f5539b",
+        "label": "Malted Chocolate Steamed Pudding recipes",
+        "image": "https://www.edamam.com/web-img/f80/f80fb8a42dd3f7f8e4a8937f1bfc544d",
+        "source": "realfood.tesco.com",
+        "url": "http://realfood.tesco.com/recipes/malted-chocolate-steamed-pudding.html",
+        "shareAs": "http://www.edamam.com/recipe/malted-chocolate-steamed-pudding-recipes-14cba5202074d9a6d413413fa2f5539b/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/14cba5202074d9a6d413413fa2f5539b?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b33679401a4b8519de8167981a966e62",
+        "label": "Chai Rice Pudding by Tess Masters recipes",
+        "image": "https://www.edamam.com/web-img/b18/b1803ea72d481254df513bf80eec516c",
+        "source": "thefullhelping.com",
+        "url": "http://www.thefullhelping.com/chai-rice-pudding-from-the-blender-girl-cookbook/",
+        "shareAs": "http://www.edamam.com/recipe/chai-rice-pudding-by-tess-masters-recipes-b33679401a4b8519de8167981a966e62/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/b33679401a4b8519de8167981a966e62?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1e9bdfa49608be24f3e8daa24b598505",
+        "label": "Vanilla Cinnamon Chia Pudding",
+        "image": "https://www.edamam.com/web-img/fe1/fe13b272fa1f33cae25185211f4c9445.jpg",
+        "source": "jugglingactmama.com",
+        "url": "https://www.jugglingactmama.com/dairy-free-desserts-kids",
+        "shareAs": "http://www.edamam.com/recipe/vanilla-cinnamon-chia-pudding-1e9bdfa49608be24f3e8daa24b598505/pudding"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/1e9bdfa49608be24f3e8daa24b598505?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    }
+  ]
+}

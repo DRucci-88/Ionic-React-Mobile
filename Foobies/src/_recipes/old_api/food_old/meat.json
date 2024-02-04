@@ -1,0 +1,348 @@
+{
+  "from": 1,
+  "to": 20,
+  "count": 10000,
+  "_links": {},
+  "hits": [
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_118caf97b8a7a7b61deff694309dfbb1",
+        "label": "Lobster Sandwiches",
+        "image": "https://www.edamam.com/web-img/9f2/9f2db1c21c2277f500529df098d4ea7d",
+        "source": "cleaneatingmag.com",
+        "url": "http://www.cleaneatingmag.com/recipes/open-faced-lobster-thermidor-sandwiches/",
+        "shareAs": "http://www.edamam.com/recipe/open-faced-lobster-thermidor-sandwiches-recipes-118caf97b8a7a7b61deff694309dfbb1/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/118caf97b8a7a7b61deff694309dfbb1?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8973527f1ec1eccde991381506599750",
+        "label": "Mac & Cheese Recipe",
+        "image": "https://www.edamam.com/web-img/0cb/0cba03c33ebbbf2875643b7ca11782ea.jpg",
+        "source": "Taste of Home",
+        "url": "http://www.tasteofhome.com/Recipes/Crab-Macaroni---Cheese",
+        "shareAs": "http://www.edamam.com/recipe/crab-macaroni-cheese-recipe-8973527f1ec1eccde991381506599750/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/8973527f1ec1eccde991381506599750?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_460516d3017185be3a560caf32233dc8",
+        "label": "Beef Stew Scratch",
+        "image": "https://www.edamam.com/web-img/07a/07a32a984e0ba709b98afe43d0dabcaa.jpg",
+        "source": "thetoastykitchen.com",
+        "url": "https://thetoastykitchen.com/easy-beef-stew-from-scratch/",
+        "shareAs": "http://www.edamam.com/recipe/easy-beef-stew-from-scratch-460516d3017185be3a560caf32233dc8/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/460516d3017185be3a560caf32233dc8?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_600a8e00da746a77f379efda01194059",
+        "label": "Norwegian Meat Recipe",
+        "image": "https://www.edamam.com/web-img/305/305c10abf3a1a4d80637cc2db08bd81d.jpg",
+        "source": "thecountrybasket.com",
+        "url": "http://thecountrybasket.com/authentic-norwegian-meatballs-kjottkaker-recipe/",
+        "shareAs": "http://www.edamam.com/recipe/authentic-norwegian-kj%C3%B8ttkaker-meat-600a8e00da746a77f379efda01194059/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/600a8e00da746a77f379efda01194059?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fd10efe47c6644dbcfb1ce09276bed4a",
+        "label": "Tropical Salad recipes",
+        "image": "https://www.edamam.com/web-img/898/898d8043d05936de08e03d1310a30a80",
+        "source": "yummyhealthyeasy.com",
+        "url": "http://www.yummyhealthyeasy.com/2015/07/tropical-chicken-bowtie-pasta-salad.html",
+        "shareAs": "http://www.edamam.com/recipe/tropical-chicken-bowtie-pasta-salad-recipes-fd10efe47c6644dbcfb1ce09276bed4a/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/fd10efe47c6644dbcfb1ce09276bed4a?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d2717eda2ff1b57e33b89edab31d5731",
+        "label": "Carreteiro Rice Recipe",
+        "image": "https://www.edamam.com/web-img/7b2/7b253be29b98c810e1717d691de7ef2e.jpg",
+        "source": "sortedfood.com",
+        "url": "https://sortedfood.com/recipe/13870",
+        "shareAs": "http://www.edamam.com/recipe/carreteiro-rice-d2717eda2ff1b57e33b89edab31d5731/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/d2717eda2ff1b57e33b89edab31d5731?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e63d3aa4f49d9d6d837c8223692680c7",
+        "label": "Cornbread Pudding Recipe",
+        "image": "https://www.edamam.com/web-img/ea3/ea3e4e8520b035b859f275e2295583ab",
+        "source": "justapinch.com",
+        "url": "https://www.justapinch.com/recipes/side/side-other-side-dish/south-of-the-border-cornbread-pudding.html",
+        "shareAs": "http://www.edamam.com/recipe/south-of-the-border-cornbread-pudding-e63d3aa4f49d9d6d837c8223692680c7/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/e63d3aa4f49d9d6d837c8223692680c7?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d328a7978ad8c7379ba70d165e0ed501",
+        "label": "Sweet & Sour Brisket ",
+        "image": "https://www.edamam.com/web-img/535/535a1cca8d92547fa2b3197d7751e782.jpg",
+        "source": "Epicurious",
+        "url": "https://www.epicurious.com/recipes/food/views/sweet-and-sour-brisket-with-shallots-and-new-potatoes-231882",
+        "shareAs": "http://www.edamam.com/recipe/sweet-and-sour-brisket-with-shallots-and-new-potatoes-d328a7978ad8c7379ba70d165e0ed501/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/d328a7978ad8c7379ba70d165e0ed501?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_be65a671854799becb21a5a79f9851cc",
+        "label": "Black Beans And Rice",
+        "image": "https://www.edamam.com/web-img/d00/d00dac196b7adf59d05d2f8189844b0f.jpg",
+        "source": "tastykitchen.com",
+        "url": "https://tastykitchen.com/recipes/main-courses/black-beans-and-rice-5/",
+        "shareAs": "http://www.edamam.com/recipe/black-beans-and-rice-be65a671854799becb21a5a79f9851cc/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/be65a671854799becb21a5a79f9851cc?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f584e6af4f498c95755e0b2977af53ee",
+        "label": "Virginia Beef Tongue",
+        "image": "https://www.edamam.com/web-img/ec7/ec76d38372b6ecc04d216ddf9de0214e.jpg",
+        "source": "recipes.sparkpeople.com",
+        "url": "https://recipes.sparkpeople.com/recipe-detail.asp?recipe=501824",
+        "shareAs": "http://www.edamam.com/recipe/virginia-beef-tongue-f584e6af4f498c95755e0b2977af53ee/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f584e6af4f498c95755e0b2977af53ee?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b4f7347840b0f14eec6f60599557ffcb",
+        "label": "Enchiladas Suizas recipes",
+        "image": "https://www.edamam.com/web-img/a46/a463e644de13fc641235e96d3ad711f9",
+        "source": "mexicoinmykitchen.com",
+        "url": "http://www.mexicoinmykitchen.com/2015/04/Easy-Enchiladas-Suizas-recipe-Tomatillo.html",
+        "shareAs": "http://www.edamam.com/recipe/quick-enchiladas-suizas-recipes-b4f7347840b0f14eec6f60599557ffcb/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/b4f7347840b0f14eec6f60599557ffcb?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6bd6be8ec60ccd58e3abfac35b58da71",
+        "label": "Beef Stew Vegetables",
+        "image": "https://www.edamam.com/web-img/8d6/8d682fac99defd6ec2b47a0e1405dc2d.jpeg",
+        "source": "Food Network",
+        "url": "https://www.foodnetwork.com/recipes/ree-drummond/beef-stew-with-root-vegetables-recipe-1983394",
+        "shareAs": "http://www.edamam.com/recipe/beef-stew-with-root-vegetables-6bd6be8ec60ccd58e3abfac35b58da71/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/6bd6be8ec60ccd58e3abfac35b58da71?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b474b2248758338f0811552406e7ce56",
+        "label": "Meat Loaf Dinner",
+        "image": "https://www.edamam.com/web-img/67a/67a9581f03e1251094223895933599e8.jpg",
+        "source": "rachaelraymag.com",
+        "url": "https://www.rachaelraymag.com/recipe/meat-loaf-dinner",
+        "shareAs": "http://www.edamam.com/recipe/meat-loaf-dinner-b474b2248758338f0811552406e7ce56/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/b474b2248758338f0811552406e7ce56?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c23bd62c8b1356cea73a1b6c056afb43",
+        "label": "Spam & Eggs Recipe",
+        "image": "https://www.edamam.com/web-img/955/955bca723222fcc284739258a95c5b27.jpg",
+        "source": "Group Recipes",
+        "url": "http://www.grouprecipes.com/31936/spam-and-eggs.html",
+        "shareAs": "http://www.edamam.com/recipe/spam-and-eggs-recipe-c23bd62c8b1356cea73a1b6c056afb43/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/c23bd62c8b1356cea73a1b6c056afb43?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8a7b001dcee7465867ee69423805e4aa",
+        "label": "Quinoa Casserole",
+        "image": "https://www.edamam.com/web-img/531/53180bd53cd8d8a8226bccf302c8085a",
+        "source": "wendypolisi.com",
+        "url": "http://wendypolisi.com/chicken-quinoa-casserole/",
+        "shareAs": "http://www.edamam.com/recipe/chicken-quinoa-casserole-recipes-8a7b001dcee7465867ee69423805e4aa/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/8a7b001dcee7465867ee69423805e4aa?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3b68e6fea4388f2365c9b2886df665ae",
+        "label": "Baked Chicken Wings",
+        "image": "https://www.edamam.com/web-img/dc6/dc69e3cefdcae434f03b305ee79adcda.jpg",
+        "source": "tastykitchen.com",
+        "url": "https://tastykitchen.com/recipes/appetizers-and-snacks/baked-chicken-wings/",
+        "shareAs": "http://www.edamam.com/recipe/baked-chicken-wings-3b68e6fea4388f2365c9b2886df665ae/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/3b68e6fea4388f2365c9b2886df665ae?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fc285aca25ca5b4aa943c6c3fc983deb",
+        "label": "Basic gravy Recipe",
+        "image": "https://www.edamam.com/web-img/669/669391a5af214ebfc1df7b72f195fe19.jpeg",
+        "source": "taste.com.au",
+        "url": "https://www.taste.com.au/recipes/basic-gravy-without-drippings/81f9e65e-22e0-40dc-972b-cfc4c027c1b5",
+        "shareAs": "http://www.edamam.com/recipe/basic-gravy-without-drippings-fc285aca25ca5b4aa943c6c3fc983deb/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/fc285aca25ca5b4aa943c6c3fc983deb?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_360412412e46ba5bdfa8ae71ecc97176",
+        "label": "Stringy Meat Recipe",
+        "image": "https://www.edamam.com/web-img/643/6439bfc5dd2db6285cd31874db35776a.jpg",
+        "source": "familycookbookproject.com",
+        "url": "https://familycookbookproject.com/recipe/3606233/stringy-meat-moms-pot-roast.html",
+        "shareAs": "http://www.edamam.com/recipe/stringy-meat-mom-s-pot-roast-recipe-360412412e46ba5bdfa8ae71ecc97176/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/360412412e46ba5bdfa8ae71ecc97176?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7d8eec3112d59d71e236583e451f77b3",
+        "label": "Onion Beef Stew",
+        "image": "https://www.edamam.com/web-img/825/8252f7db10dfb21f032a489d1f7621c8.jpg",
+        "source": "completerecipes.com",
+        "url": "https://completerecipes.com/slow-cooker-french-onion-beef-stew.html",
+        "shareAs": "http://www.edamam.com/recipe/slow-cooker-french-onion-beef-stew-7d8eec3112d59d71e236583e451f77b3/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/7d8eec3112d59d71e236583e451f77b3?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_92b1896b949fe0b8c5d5f5ca0cc7df55",
+        "label": "Chop Suey Recipe",
+        "image": "https://www.edamam.com/web-img/016/0169d302cc4c0e00f325f292db724c67.jpg",
+        "source": "Epicurious",
+        "url": "https://www.epicurious.com/recipes/food/views/chop-suey-106261",
+        "shareAs": "http://www.edamam.com/recipe/chop-suey-92b1896b949fe0b8c5d5f5ca0cc7df55/meat"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/92b1896b949fe0b8c5d5f5ca0cc7df55?type=public&app_id=3f4f310f&app_key=a3fd0d28cd6a2b5c664de96da482a7c1",
+          "title": "Self"
+        }
+      }
+    }
+  ]
+}

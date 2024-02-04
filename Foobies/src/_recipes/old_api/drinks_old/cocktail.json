@@ -1,0 +1,348 @@
+{
+  "from": 1,
+  "to": 20,
+  "count": 8129,
+  "_links": {},
+  "hits": [
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0540760aaaa34074cfd41868f8c90d4e",
+        "label": "Salted Nut Roll Bars",
+        "image": "https://www.edamam.com/web-img/04c/04cd5cb73d9bf5325bf27992133dbc2c",
+        "source": "jamiecooksitup.net",
+        "url": "http://jamiecooksitup.net/2017/03/salted-nut-roll-bars/",
+        "shareAs": "http://www.edamam.com/recipe/salted-nut-roll-bars-recipes-0540760aaaa34074cfd41868f8c90d4e/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/0540760aaaa34074cfd41868f8c90d4e?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0b0018d2082c120919877cc655c1d619",
+        "label": "Forest Cocktail Recipe",
+        "image": "https://www.edamam.com/web-img/224/224c2473c5a49471a7bfa095859e555f.jpg",
+        "source": "carmelberry.com",
+        "url": "https://carmelberry.com/recipe/forest-cocktail/",
+        "shareAs": "http://www.edamam.com/recipe/forest-cocktail-0b0018d2082c120919877cc655c1d619/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/0b0018d2082c120919877cc655c1d619?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_24e6b950088e00d1a96abcc37e79ee33",
+        "label": "Strawberry Pimm’s",
+        "image": "https://www.edamam.com/web-img/c8e/c8ec6831ed6966d2aaa11e05e361faf1.jpeg",
+        "source": "taste.com.au",
+        "url": "https://www.taste.com.au/recipes/strawberry-pimms/21f4c452-dc8f-4e09-9b4d-134433034dbf",
+        "shareAs": "http://www.edamam.com/recipe/strawberry-pimm-s-24e6b950088e00d1a96abcc37e79ee33/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/24e6b950088e00d1a96abcc37e79ee33?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8fd67277828aab13be6caeb8c26900f5",
+        "label": "Sparkling Cocktail",
+        "image": "https://www.edamam.com/web-img/e61/e61906cddfef1f6f08d9e696ff736c7e.jpg",
+        "source": "mealplannerpro.com",
+        "url": "https://mealplannerpro.com/member-recipes/sparkling-rhubarb-shrub-cocktail-554101",
+        "shareAs": "http://www.edamam.com/recipe/sparkling-rhubarb-shrub-cocktail-8fd67277828aab13be6caeb8c26900f5/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/8fd67277828aab13be6caeb8c26900f5?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_53c24d48164898162cef8e4eb612e840",
+        "label": "Shrimp Cocktail with Vodka",
+        "image": "https://www.edamam.com/web-img/310/31017f4924d0882dcc4b2bc8b02125fa.jpg",
+        "source": "2sistersrecipes.com",
+        "url": "https://2sistersrecipes.com/shrimp-cocktail-with-vodka-sauce/",
+        "shareAs": "http://www.edamam.com/recipe/shrimp-cocktail-with-vodka-sauce-53c24d48164898162cef8e4eb612e840/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/53c24d48164898162cef8e4eb612e840?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_89f43a92f4337d3c281e2aed2db1a49a",
+        "label": "Sparkling Cranberry Cider",
+        "image": "https://www.edamam.com/web-img/010/0104c9f7a91737a9771179fcb5776149.jpg",
+        "source": "My Recipes",
+        "url": "http://www.myrecipes.com/recipe/sparkling-cranberry-cider",
+        "shareAs": "http://www.edamam.com/recipe/sparkling-cranberry-cider-89f43a92f4337d3c281e2aed2db1a49a/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/89f43a92f4337d3c281e2aed2db1a49a?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f17e9700d150045dc4708fa925715630",
+        "label": "Cranberry-Orange Gelatin",
+        "image": "https://www.edamam.com/web-img/e23/e23424df1c6fcec84594d65b3d57e2df.jpg",
+        "source": "Martha Stewart",
+        "url": "http://www.marthastewart.com/317097/cranberry-orange-gelatin",
+        "shareAs": "http://www.edamam.com/recipe/cranberry-orange-gelatin-f17e9700d150045dc4708fa925715630/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/f17e9700d150045dc4708fa925715630?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_10d59842f5020a07d14d010bb20c8bda",
+        "label": "Prawn Cocktails Mayonnaise ",
+        "image": "https://www.edamam.com/web-img/9c0/9c0ec20c094e8756a979f2c6597eb60e.jpg",
+        "source": "easysnackstomake.net",
+        "url": "http://www.easysnackstomake.net/easy-appetizers/prawn-cocktails/",
+        "shareAs": "http://www.edamam.com/recipe/prawn-cocktails-with-smoky-mayonnaise-10d59842f5020a07d14d010bb20c8bda/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/10d59842f5020a07d14d010bb20c8bda?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d1b239777e58efb971588ef48d32b0f3",
+        "label": "Cherry Mint Julep",
+        "image": "https://www.edamam.com/web-img/1d5/1d5a0d2743976cc967ba89c1a45f4912.jpg",
+        "source": "tastykitchen.com",
+        "url": "https://tastykitchen.com/recipes/drinks/cherry-mint-julep/",
+        "shareAs": "http://www.edamam.com/recipe/cherry-mint-julep-d1b239777e58efb971588ef48d32b0f3/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/d1b239777e58efb971588ef48d32b0f3?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_104273458afe77a92bf37c739efb991e",
+        "label": "Horsey Cocktail Sauce",
+        "image": "https://www.edamam.com/web-img/642/642fa81f201016dd55d488e9b1442305.jpg",
+        "source": "recipezaar.com",
+        "url": "http://www.recipezaar.com/Horsey-Cocktail-Sauce-223205",
+        "shareAs": "http://www.edamam.com/recipe/horsey-cocktail-sauce-104273458afe77a92bf37c739efb991e/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/104273458afe77a92bf37c739efb991e?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8ebb9e954b50ab77002073108a87d181",
+        "label": "The Pimm's Cup Cocktail",
+        "image": "https://www.edamam.com/web-img/e8a/e8ab04477d69b8d7411d0300ba4b7b26.jpg",
+        "source": "gourmetcentric.com",
+        "url": "http://gourmetcentric.com/2016/02/pimms-cup-cocktail/",
+        "shareAs": "http://www.edamam.com/recipe/the-pimm-s-cup-cocktail-8ebb9e954b50ab77002073108a87d181/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/8ebb9e954b50ab77002073108a87d181?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6022d01924484c40ad0ad5f9f1693292",
+        "label": "Ginger Melon Ball Smoothie",
+        "image": "https://www.edamam.com/web-img/155/155b95bba783e7c53d39ae6e8be81dc1.jpg",
+        "source": "BigOven",
+        "url": "http://www.bigoven.com/recipe/Ginger-Melon-Ball-Smoothie-(Low-Carb)/174380",
+        "shareAs": "http://www.edamam.com/recipe/ginger-melon-ball-smoothie-low-carb-6022d01924484c40ad0ad5f9f1693292/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/6022d01924484c40ad0ad5f9f1693292?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9cd621f32386119ddbcba754aae2125f",
+        "label": "Strawberry and gin cocktail",
+        "image": "https://www.edamam.com/web-img/2a2/2a2b6245d41faa9506540353b03c7f56.jpeg",
+        "source": "taste.com.au",
+        "url": "https://www.taste.com.au/recipes/strawberry-gin-cocktail/0c8235ba-2b7b-4c29-8507-40b387dde2ed",
+        "shareAs": "http://www.edamam.com/recipe/strawberry-and-gin-cocktail-9cd621f32386119ddbcba754aae2125f/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/9cd621f32386119ddbcba754aae2125f?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4bb6d970ba611bc3ceb4b745e5eda7dc",
+        "label": "Cocktail Sauce Recipe",
+        "image": "https://www.edamam.com/web-img/3bc/3bcc7ec20ea76dd114eaedb0016fa559.jpg",
+        "source": "food.com",
+        "url": "http://www.food.com/recipe/cocktail-sauce-53024",
+        "shareAs": "http://www.edamam.com/recipe/cocktail-sauce-4bb6d970ba611bc3ceb4b745e5eda7dc/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/4bb6d970ba611bc3ceb4b745e5eda7dc?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_af7719ef7d8ff8083161d7609d8b6d22",
+        "label": "Cranberry Sandwich ",
+        "image": "https://www.edamam.com/web-img/b49/b49f68ec811768854cd9c023546b4cc4.jpeg",
+        "source": "Food Network",
+        "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/cranberry-sandwich-cookies-3363976",
+        "shareAs": "http://www.edamam.com/recipe/cranberry-sandwich-cookies-af7719ef7d8ff8083161d7609d8b6d22/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/af7719ef7d8ff8083161d7609d8b6d22?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_54fb50c666f7cbc3ac12f6cbc1a24c8f",
+        "label": "Witches' Fingers in Bandages",
+        "image": "https://www.edamam.com/web-img/9eb/9ebcc7338314ae8837bcad580a7e7d28.jpg",
+        "source": "Delish",
+        "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a13683/witches-fingers-in-bandages-recipe-mr1010/",
+        "shareAs": "http://www.edamam.com/recipe/witches-fingers-in-bandages-54fb50c666f7cbc3ac12f6cbc1a24c8f/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/54fb50c666f7cbc3ac12f6cbc1a24c8f?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e7205846e2fa5006b665a2f5824e2230",
+        "label": "Classic Cocktail Meatballs",
+        "image": "https://www.edamam.com/web-img/535/535f4f08a62c2fea56c68d052e939ad5.jpg",
+        "source": "noblepig.com",
+        "url": "https://noblepig.com/2013/12/kicked-up-classic-cocktail-meatballs",
+        "shareAs": "http://www.edamam.com/recipe/kicked-up-classic-cocktail-meatballs-e7205846e2fa5006b665a2f5824e2230/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/e7205846e2fa5006b665a2f5824e2230?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3650fd447ac85e8d70839f4c9c25ca05",
+        "label": "Glasgow Mule Cocktail recipes",
+        "image": "https://www.edamam.com/web-img/796/796431e99eda8516f024064ba73351b0",
+        "source": "SippitySup",
+        "url": "http://www.sippitysup.com/glasgow-mule/",
+        "shareAs": "http://www.edamam.com/recipe/glasgow-mule-cocktail-recipes-3650fd447ac85e8d70839f4c9c25ca05/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/3650fd447ac85e8d70839f4c9c25ca05?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4446b809e8a427159ed792d68df00665",
+        "label": "Chili Martini Cocktail Recipe",
+        "image": "https://www.edamam.com/web-img/8c7/8c755893e5665b89c2d6ba6c8fe12198.jpg",
+        "source": "White On Rice Couple",
+        "url": "http://whiteonricecouple.com/recipes/chili-martini-cocktail-recipes/",
+        "shareAs": "http://www.edamam.com/recipe/chili-martini-cocktail-recipe-4446b809e8a427159ed792d68df00665/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/4446b809e8a427159ed792d68df00665?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_473dc05764e549a7d9b2a670c22010e4",
+        "label": "Thai Chicken and Cucumber Salad",
+        "image": "https://www.edamam.com/web-img/ef3/ef37ecbeb366399da33cb236824b7028.jpg",
+        "source": "foodiecrush.com",
+        "url": "https://www.foodiecrush.com/thai-chicken-cucumber-salad/",
+        "shareAs": "http://www.edamam.com/recipe/thai-chicken-and-cucumber-salad-473dc05764e549a7d9b2a670c22010e4/cocktail"
+
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/473dc05764e549a7d9b2a670c22010e4?type=public&app_id=ea1d37d5&app_key=fd382a172ba8d6668c0430dc9c14a181",
+          "title": "Self"
+        }
+      }
+    }
+  ]
+}
